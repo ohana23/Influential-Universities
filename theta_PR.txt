@@ -1,0 +1,1010 @@
+1	2281	24	University of Oxford	http://en.wikipedia.org/wiki/University_of_Oxford	UK	EN	1096
+2	2278	24	University of Cambridge	http://en.wikipedia.org/wiki/University_of_Cambridge	UK	EN	1209
+3	2277	24	Harvard University	http://en.wikipedia.org/wiki/Harvard_University	US	EN	1636
+4	2099	24	Columbia University	http://en.wikipedia.org/wiki/Columbia_University	US	EN	1754
+5	1959	23	Yale University	http://en.wikipedia.org/wiki/Yale_University	US	EN	1701
+6	1917	24	University of Chicago	http://en.wikipedia.org/wiki/University_of_Chicago	US	EN	1890
+7	1858	23	Princeton University	http://en.wikipedia.org/wiki/Princeton_University	US	EN	1746
+8	1825	21	Stanford University	http://en.wikipedia.org/wiki/Stanford_University	US	EN	1891
+9	1804	21	Massachusetts Institute of Technology	http://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology	US	EN	1861
+10	1693	20	University of California, Berkeley	http://en.wikipedia.org/wiki/University_of_California%2C_Berkeley	US	EN	1868
+11	1578	22	Humboldt University of Berlin	http://en.wikipedia.org/wiki/Humboldt_University_of_Berlin	DE	DE	1810
+12	1534	22	Cornell University	http://en.wikipedia.org/wiki/Cornell_University	US	EN	1865
+13	1472	22	University of Pennsylvania	http://en.wikipedia.org/wiki/University_of_Pennsylvania	US	EN	1740
+14	1408	23	New York University	http://en.wikipedia.org/wiki/New_York_University	US	EN	1831
+15	1395	21	University of California, Los Angeles	http://en.wikipedia.org/wiki/University_of_California%2C_Los_Angeles	US	EN	1882
+16	1303	21	University of Edinburgh	http://en.wikipedia.org/wiki/University_of_Edinburgh	UK	EN	1582
+17	1298	20	University of Michigan	http://en.wikipedia.org/wiki/University_of_Michigan	US	EN	1817
+18	1221	21	Johns Hopkins University	http://en.wikipedia.org/wiki/Johns_Hopkins_University	US	EN	1876
+19	1216	20	University of Vienna	http://en.wikipedia.org/wiki/University_of_Vienna	AT	DE	1365
+20	1198	20	University of Göttingen	http://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen	DE	DE	1734
+21	1189	21	Heidelberg University	http://en.wikipedia.org/wiki/Heidelberg_University	DE	DE	1386
+22	1099	18	California Institute of Technology	http://en.wikipedia.org/wiki/California_Institute_of_Technology	US	EN	1891
+23	1075	21	Moscow State University	http://en.wikipedia.org/wiki/Moscow_State_University	RU	RU	1755
+24	1031	20	University of Bologna	http://en.wikipedia.org/wiki/University_of_Bologna	IT	IT	1088
+25	998	19	Leipzig University	http://en.wikipedia.org/wiki/Leipzig_University	DE	DE	1409
+26	993	19	Ludwig Maximilian University of Munich	http://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich	DE	DE	1472
+27	975	17	London School of Economics	http://en.wikipedia.org/wiki/London_School_of_Economics	UK	EN	1895
+28	891	16	Uppsala University	http://en.wikipedia.org/wiki/Uppsala_University	SE	SV	1477
+29	874	20	University of Southern California	http://en.wikipedia.org/wiki/University_of_Southern_California	US	EN	1880
+30	851	18	University of Tokyo	http://en.wikipedia.org/wiki/University_of_Tokyo	JP	JA	1877
+31	770	15	Leiden University	http://en.wikipedia.org/wiki/Leiden_University	NL	NL	1575
+32	746	13	University College London	http://en.wikipedia.org/wiki/University_College_London	UK	EN	1826
+33	653	15	University of Toronto	http://en.wikipedia.org/wiki/University_of_Toronto	CA	EN	1827
+34	651	14	Charles University	http://en.wikipedia.org/wiki/Charles_University	CZ	CS	1348
+35	638	17	Duke University	http://en.wikipedia.org/wiki/Duke_University	US	EN	1838
+36	600	13	École Normale Supérieure	http://en.wikipedia.org/wiki/%C3%89cole_Normale_Sup%C3%A9rieure	FR	FR	1794
+37	585	15	University of Copenhagen	http://en.wikipedia.org/wiki/University_of_Copenhagen	DK	DA	1479
+38	565	11	University of Texas at Austin	http://en.wikipedia.org/wiki/University_of_Texas_at_Austin	US	EN	1883
+39	555	14	University of Tübingen	http://en.wikipedia.org/wiki/University_of_T%C3%BCbingen	DE	DE	1477
+40	531	13	University of Bonn	http://en.wikipedia.org/wiki/University_of_Bonn	DE	DE	1818
+41	526	15	Carnegie Mellon University	http://en.wikipedia.org/wiki/Carnegie_Mellon_University	US	EN	1900
+42	516	10	University of Florida	http://en.wikipedia.org/wiki/University_of_Florida	US	EN	1853
+43	511	12	Jagiellonian University	http://en.wikipedia.org/wiki/Jagiellonian_University	PL	PL	1364
+44	505	11	University of Glasgow	http://en.wikipedia.org/wiki/University_of_Glasgow	UK	EN	1451
+45	501	11	École Polytechnique	http://en.wikipedia.org/wiki/%C3%89cole_Polytechnique	FR	FR	1794
+46	501	13	Hebrew University of Jerusalem	http://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem	IL	HE	1925
+47	499	13	University of Wisconsin–Madison	http://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison	US	EN	1848
+48	489	9	King's College London	http://en.wikipedia.org/wiki/King%27s_College_London	UK	EN	1550
+49	482	14	University of Virginia	http://en.wikipedia.org/wiki/University_of_Virginia	US	EN	1819
+50	473	15	University of Zurich	http://en.wikipedia.org/wiki/University_of_Zurich	CH	DE	1525
+51	464	13	University of Manchester	http://en.wikipedia.org/wiki/University_of_Manchester	UK	EN	1824
+52	461	11	Sapienza University of Rome	http://en.wikipedia.org/wiki/Sapienza_University_of_Rome	IT	IT	1303
+53	447	9	Al-Azhar University	http://en.wikipedia.org/wiki/Al-Azhar_University	EG	AR	1961
+54	437	8	University of Helsinki	http://en.wikipedia.org/wiki/University_of_Helsinki	FI	WR	1640
+55	436	13	University of Minnesota	http://en.wikipedia.org/wiki/University_of_Minnesota	US	EN	1851
+56	429	10	University of Illinois at Urbana–Champaign	http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign	US	EN	1867
+57	425	13	McGill University	http://en.wikipedia.org/wiki/McGill_University	CA	EN	1821
+58	391	5	Lund University	http://en.wikipedia.org/wiki/Lund_University	SE	SV	1666
+59	377	11	Georgetown University	http://en.wikipedia.org/wiki/Georgetown_University	US	EN	1789
+60	376	10	Peking University	http://en.wikipedia.org/wiki/Peking_University	CN	ZH	1898
+61	351	9	University of Geneva	http://en.wikipedia.org/wiki/University_of_Geneva	CH	DE	1559
+62	349	8	Imperial College London	http://en.wikipedia.org/wiki/Imperial_College_London	UK	EN	1907
+63	347	7	University of Oslo	http://en.wikipedia.org/wiki/University_of_Oslo	NO	WR	1811
+64	346	8	University of Padua	http://en.wikipedia.org/wiki/University_of_Padua	IT	IT	1222
+65	337	13	University of Washington	http://en.wikipedia.org/wiki/University_of_Washington	US	EN	1861
+66	331	6	Kyoto University	http://en.wikipedia.org/wiki/Kyoto_University	JP	JA	1897
+67	329	9	Saint Petersburg State University	http://en.wikipedia.org/wiki/Saint_Petersburg_State_University	RU	RU	1724
+68	325	9	Brown University	http://en.wikipedia.org/wiki/Brown_University	US	EN	1764
+69	308	10	University of Arizona	http://en.wikipedia.org/wiki/University_of_Arizona	US	EN	1885
+70	306	7	Ohio State University	http://en.wikipedia.org/wiki/Ohio_State_University	US	EN	1870
+71	297	7	University of Tartu	http://en.wikipedia.org/wiki/University_of_Tartu	EE	WR	1632
+72	290	9	Northwestern University	http://en.wikipedia.org/wiki/Northwestern_University	US	EN	1851
+73	289	5	Waseda University	http://en.wikipedia.org/wiki/Waseda_University	JP	JA	1882
+74	281	8	Boston University	http://en.wikipedia.org/wiki/Boston_University	US	EN	1839
+75	273	5	University of Warsaw	http://en.wikipedia.org/wiki/University_of_Warsaw	PL	PL	1816
+76	263	6	ETH Zurich	http://en.wikipedia.org/wiki/ETH_Zurich	CH	DE	1855
+77	261	6	University of Marburg	http://en.wikipedia.org/wiki/University_of_Marburg	DE	DE	1527
+78	247	8	Martin Luther University of Halle-Wittenberg	http://en.wikipedia.org/wiki/Martin_Luther_University_of_Halle-Wittenberg	DE	DE	1502
+79	246	6	Michigan State University	http://en.wikipedia.org/wiki/Michigan_State_University	US	EN	1855
+80	241	7	University of Jena	http://en.wikipedia.org/wiki/University_of_Jena	DE	DE	1558
+81	235	7	University of Notre Dame	http://en.wikipedia.org/wiki/University_of_Notre_Dame	US	EN	1842
+82	231	6	Free University of Berlin	http://en.wikipedia.org/wiki/Free_University_of_Berlin	DE	DE	1948
+83	226	7	University of Salamanca	http://en.wikipedia.org/wiki/University_of_Salamanca	ES	ES	1130
+84	225	6	University of Freiburg	http://en.wikipedia.org/wiki/University_of_Freiburg	DE	DE	1457
+85	221	4	Seoul National University	http://en.wikipedia.org/wiki/Seoul_National_University	KR	KO	1946
+86	218	5	University of Colorado Boulder	http://en.wikipedia.org/wiki/University_of_Colorado_Boulder	US	EN	1876
+87	215	5	Trinity College, Dublin	http://en.wikipedia.org/wiki/Trinity_College%2C_Dublin	IE	EN	1592
+88	209	8	Indiana University	http://en.wikipedia.org/wiki/Indiana_University	US	EN	1820
+89	207	7	Technical University of Munich	http://en.wikipedia.org/wiki/Technical_University_of_Munich	DE	DE	1868
+90	207	7	University of North Carolina at Chapel Hill	http://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill	US	EN	1789
+91	206	5	University of Coimbra	http://en.wikipedia.org/wiki/University_of_Coimbra	PT	PT	1290
+92	204	5	Stockholm University	http://en.wikipedia.org/wiki/Stockholm_University	SE	SV	1878
+93	204	5	Utrecht University	http://en.wikipedia.org/wiki/Utrecht_University	NL	NL	1636
+94	203	4	Technical University of Berlin	http://en.wikipedia.org/wiki/Technical_University_of_Berlin	DE	DE	1946
+95	199	3	Keio University	http://en.wikipedia.org/wiki/Keio_University	JP	JA	1858
+96	199	6	University of California, San Diego	http://en.wikipedia.org/wiki/University_of_California%2C_San_Diego	US	EN	1960
+97	196	5	University of St Andrews	http://en.wikipedia.org/wiki/University_of_St_Andrews	UK	EN	1410
+98	196	4	University of Sydney	http://en.wikipedia.org/wiki/University_of_Sydney	AU	EN	1850
+99	195	4	University of Kiel	http://en.wikipedia.org/wiki/University_of_Kiel	DE	DE	1665
+100	193	3	National Autonomous University of Mexico	http://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico	MX	ES	1910
+101	193	5	University of Maryland, College Park	http://en.wikipedia.org/wiki/University_of_Maryland%2C_College_Park	US	EN	1856
+102	193	4	University of Wrocław	http://en.wikipedia.org/wiki/University_of_Wroc%C5%82aw	PL	PL	1702
+103	192	5	University of Amsterdam	http://en.wikipedia.org/wiki/University_of_Amsterdam	NL	NL	1632
+104	185	3	Taras Shevchenko National University of Kyiv	http://en.wikipedia.org/wiki/Taras_Shevchenko_National_University_of_Kyiv	UA	WR	1834
+105	185	5	University of Cologne	http://en.wikipedia.org/wiki/University_of_Cologne	DE	DE	1388
+106	184	3	Meiji University	http://en.wikipedia.org/wiki/Meiji_University	JP	JA	1881
+107	183	5	Rutgers University	http://en.wikipedia.org/wiki/Rutgers_University	US	EN	1766
+108	177	6	University of Iowa	http://en.wikipedia.org/wiki/University_of_Iowa	US	EN	1847
+109	175	3	University of Al Quaraouiyine	http://en.wikipedia.org/wiki/University_of_Al_Quaraouiyine	AR	AR	1963
+110	172	7	University of Strasbourg	http://en.wikipedia.org/wiki/University_of_Strasbourg	FR	FR	1538
+111	166	2	Université libre de Bruxelles	http://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles	BE	NL	1834
+112	163	4	Purdue University	http://en.wikipedia.org/wiki/Purdue_University	US	EN	1869
+113	159	5	University of Belgrade	http://en.wikipedia.org/wiki/University_of_Belgrade	RS	WR	1808
+114	154	6	University of Basel	http://en.wikipedia.org/wiki/University_of_Basel	CH	DE	1460
+115	154	2	University of Gothenburg	http://en.wikipedia.org/wiki/University_of_Gothenburg	SE	SV	1891
+116	153	3	Shanghai Jiao Tong University	http://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University	CN	ZH	1896
+117	151	3	Epitech	http://en.wikipedia.org/wiki/Epitech	FR	FR	1999
+118	150	2	University of Indonesia	http://en.wikipedia.org/wiki/University_of_Indonesia	ID	WR	1849
+119	149	4	Tsinghua University	http://en.wikipedia.org/wiki/Tsinghua_University	CN	ZH	1911
+120	149	4	Tufts University	http://en.wikipedia.org/wiki/Tufts_University	US	EN	1852
+121	148	2	University of Lviv	http://en.wikipedia.org/wiki/University_of_Lviv	UA	UK	1661
+122	145	3	University of Greifswald	http://en.wikipedia.org/wiki/University_of_Greifswald	DE	DE	1456
+123	145	2	University of Liège	http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge	BE	NL	1817
+124	144	7	George Washington University	http://en.wikipedia.org/wiki/George_Washington_University	US	EN	1821
+125	143	2	Linköping University	http://en.wikipedia.org/wiki/Link%C3%B6ping_University	SE	SV	1969
+126	142	4	Dartmouth College	http://en.wikipedia.org/wiki/Dartmouth_College	US	EN	1769
+127	141	3	Georgia Institute of Technology	http://en.wikipedia.org/wiki/Georgia_Institute_of_Technology	US	EN	1885
+128	141	2	University of Bergen	http://en.wikipedia.org/wiki/University_of_Bergen	NO	WR	1825
+129	137	2	Pantheon-Sorbonne University	http://en.wikipedia.org/wiki/Pantheon-Sorbonne_University	FR	FR	1971
+130	136	4	National and Kapodistrian University of Athens	http://en.wikipedia.org/wiki/National_and_Kapodistrian_University_of_Athens	GR	EL	1837
+131	134	4	University of Hamburg	http://en.wikipedia.org/wiki/University_of_Hamburg	DE	DE	1919
+132	133	4	Karolinska Institute	http://en.wikipedia.org/wiki/Karolinska_Institute	SE	SE	1810
+133	133	2	Paris-Sorbonne University	http://en.wikipedia.org/wiki/Paris-Sorbonne_University	FR	FR	1970
+134	132	3	Ghent University	http://en.wikipedia.org/wiki/Ghent_University	BE	NL	1817
+135	132	4	University of Birmingham	http://en.wikipedia.org/wiki/University_of_Birmingham	UK	EN	1900
+136	130	2	Université catholique de Louvain	http://en.wikipedia.org/wiki/Universit%C3%A9_catholique_de_Louvain	BE	NL	1425
+137	129	3	Institut polytechnique des sciences avancées	http://en.wikipedia.org/wiki/Institut_polytechnique_des_sciences_avanc%C3%A9es	FR	FR	1961
+138	129	2	University of São Paulo	http://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo	BR	PT	1827
+139	127	3	Cairo University	http://en.wikipedia.org/wiki/Cairo_University	EG	AR	1908
+140	126	3	Rockefeller University	http://en.wikipedia.org/wiki/Rockefeller_University	US	EN	1901
+141	125	2	University of Perugia	http://en.wikipedia.org/wiki/University_of_Perugia	IT	IT	1308
+142	123	2	Nihon University	http://en.wikipedia.org/wiki/Nihon_University	JP	JA	1889
+143	123	2	University of Buenos Aires	http://en.wikipedia.org/wiki/University_of_Buenos_Aires	AR	ES	1821
+144	123	2	Vilnius University	http://en.wikipedia.org/wiki/Vilnius_University	LT	WR	1579
+145	122	2	University of Groningen	http://en.wikipedia.org/wiki/University_of_Groningen	NL	NL	1614
+146	122	2	University of Naples Federico II	http://en.wikipedia.org/wiki/University_of_Naples_Federico_II	IT	IT	1224
+147	121	4	University of Pavia	http://en.wikipedia.org/wiki/University_of_Pavia	IT	IT	1361
+148	121	2	University of Tennessee	http://en.wikipedia.org/wiki/University_of_Tennessee	US	EN	1794
+149	119	2	Thammasat University	http://en.wikipedia.org/wiki/Thammasat_University	TH	TH	1934
+150	119	2	University of Bern	http://en.wikipedia.org/wiki/University_of_Bern	CH	DE	1834
+151	117	2	Istanbul Technical University	http://en.wikipedia.org/wiki/Istanbul_Technical_University	TR	TR	1773
+152	117	3	National University of Singapore	http://en.wikipedia.org/wiki/National_University_of_Singapore	SG	ZH	1980
+153	117	5	University of Hawaii	http://en.wikipedia.org/wiki/University_of_Hawaii	US	EN	1907
+154	117	5	University of Pittsburgh	http://en.wikipedia.org/wiki/University_of_Pittsburgh	US	EN	1787
+155	116	4	Versailles Saint-Quentin-en-Yvelines University	http://en.wikipedia.org/wiki/Versailles_Saint-Quentin-en-Yvelines_University	FR	FR	1991
+156	115	2	Nanjing University	http://en.wikipedia.org/wiki/Nanjing_University	CN	ZH	1921
+157	115	3	University of Florence	http://en.wikipedia.org/wiki/University_of_Florence	IT	IT	1321
+158	115	2	University of Tehran	http://en.wikipedia.org/wiki/University_of_Tehran	IR	FA	1934
+159	114	4	Complutense University of Madrid	http://en.wikipedia.org/wiki/Complutense_University_of_Madrid	ES	ES	1293
+160	114	2	Tel Aviv University	http://en.wikipedia.org/wiki/Tel_Aviv_University	IL	HE	1956
+161	113	2	Istanbul University	http://en.wikipedia.org/wiki/Istanbul_University	TR	TR	1453
+162	112	2	Panthéon-Assas University	http://en.wikipedia.org/wiki/Panth%C3%A9on-Assas_University	FR	FR	1970
+163	111	2	Örebro University	http://en.wikipedia.org/wiki/%C3%96rebro_University	SE	SV	1977
+164	111	3	University of the Philippines	http://en.wikipedia.org/wiki/University_of_the_Philippines	PH	EN	1908
+165	110	2	Brigham Young University	http://en.wikipedia.org/wiki/Brigham_Young_University	US	EN	1875
+166	110	2	Chuo University	http://en.wikipedia.org/wiki/Chuo_University	JP	JA	1885
+167	110	4	University of Melbourne	http://en.wikipedia.org/wiki/University_of_Melbourne	AU	EN	1853
+168	109	2	Fudan University	http://en.wikipedia.org/wiki/Fudan_University	CN	ZH	1905
+169	108	2	Hokkaido University	http://en.wikipedia.org/wiki/Hokkaido_University	JP	JA	1876
+170	108	2	Umeå University	http://en.wikipedia.org/wiki/Ume%C3%A5_University	SE	SV	1965
+171	108	3	University of Rostock	http://en.wikipedia.org/wiki/University_of_Rostock	DE	DE	1419
+172	107	2	University of Würzburg	http://en.wikipedia.org/wiki/University_of_W%C3%BCrzburg	DE	DE	1402
+173	106	2	Middle East Technical University	http://en.wikipedia.org/wiki/Middle_East_Technical_University	TR	TR	1956
+174	106	3	University of Münster	http://en.wikipedia.org/wiki/University_of_M%C3%BCnster	DE	DE	1780
+175	106	2	Vrije Universiteit Amsterdam	http://en.wikipedia.org/wiki/Vrije_Universiteit_Amsterdam	NL	NL	1880
+176	105	2	Technion – Israel Institute of Technology	http://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology	IL	HE	1912
+177	105	2	University of Chile	http://en.wikipedia.org/wiki/University_of_Chile	CL	ES	1747
+178	105	2	University of Turin	http://en.wikipedia.org/wiki/University_of_Turin	IT	IT	1404
+179	103	3	Pennsylvania State University	http://en.wikipedia.org/wiki/Pennsylvania_State_University	US	EN	1855
+180	103	2	Tohoku University	http://en.wikipedia.org/wiki/Tohoku_University	JP	JA	1907
+181	102	2	University of Barcelona	http://en.wikipedia.org/wiki/University_of_Barcelona	ES	ES	1450
+182	101	3	University of British Columbia	http://en.wikipedia.org/wiki/University_of_British_Columbia	CA	EN	1908
+183	100	1	Chulalongkorn University	http://en.wikipedia.org/wiki/Chulalongkorn_University	TH	TH	1917
+184	100	1	Eötvös Loránd University	http://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University	HU	HU	1635
+185	100	2	Goethe University Frankfurt	http://en.wikipedia.org/wiki/Goethe_University_Frankfurt	DE	DE	1914
+186	100	2	Kazan (Volga region) Federal University	http://en.wikipedia.org/wiki/Kazan_%28Volga_region%29_Federal_University	RU	RU	1804
+187	99	1	Aarhus University	http://en.wikipedia.org/wiki/Aarhus_University	DK	DA	1928
+188	99	2	American University of Beirut	http://en.wikipedia.org/wiki/American_University_of_Beirut	LB	AR	1866
+189	99	1	Aristotle University of Thessaloniki	http://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki	GR	EL	1925
+190	99	1	Budapest University of Technology and Economics	http://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics	HU	HU	1782
+191	99	1	Korea University	http://en.wikipedia.org/wiki/Korea_University	KR	KO	1905
+192	98	1	Aalborg University	http://en.wikipedia.org/wiki/Aalborg_University	DK	DA	1974
+193	98	1	Adam Mickiewicz University in Poznań	http://en.wikipedia.org/wiki/Adam_Mickiewicz_University_in_Pozna%C5%84	PL	PL	1919
+194	98	1	Bar-Ilan University	http://en.wikipedia.org/wiki/Bar-Ilan_University	IL	HE	1955
+195	98	1	Kasetsart University	http://en.wikipedia.org/wiki/Kasetsart_University	TH	TH	1943
+196	98	1	University of Szeged	http://en.wikipedia.org/wiki/University_of_Szeged	HU	HU	1581
+197	98	1	University of Technology, Malaysia	http://en.wikipedia.org/wiki/University_of_Technology%2C_Malaysia	MY	MS	1972
+198	98	1	Yonsei University	http://en.wikipedia.org/wiki/Yonsei_University	KR	KO	1885
+199	97	2	École pratique des hautes études	http://en.wikipedia.org/wiki/%C3%89cole_pratique_des_hautes_%C3%A9tudes	FR	FR	1868
+200	97	1	Jagadguru Ramanandacharya Rajasthan Sanskrit University	http://en.wikipedia.org/wiki/Jagadguru_Ramanandacharya_Rajasthan_Sanskrit_University	IN	HI	2001
+201	97	1	Technical University of Denmark	http://en.wikipedia.org/wiki/Technical_University_of_Denmark	DK	DA	1829
+202	97	1	University of Haifa	http://en.wikipedia.org/wiki/University_of_Haifa	IL	HE	1963
+203	97	1	University of Malaya	http://en.wikipedia.org/wiki/University_of_Malaya	MY	MS	1949
+204	96	1	Ramkhamhaeng University	http://en.wikipedia.org/wiki/Ramkhamhaeng_University	TH	TH	1971
+205	96	1	Roskilde University	http://en.wikipedia.org/wiki/Roskilde_University	DK	DA	1972
+206	96	1	University of Allahabad	http://en.wikipedia.org/wiki/University_of_Allahabad	IN	HI	1887
+207	96	1	University of Pécs	http://en.wikipedia.org/wiki/University_of_P%C3%A9cs	HU	HU	1367
+208	95	1	Ankara University	http://en.wikipedia.org/wiki/Ankara_University	TR	TR	1946
+209	95	1	Can Tho University	http://en.wikipedia.org/wiki/Can_Tho_University	VN	VI	1966
+210	95	1	Kameshwar Singh Darbhanga Sanskrit University	http://en.wikipedia.org/wiki/Kameshwar_Singh_Darbhanga_Sanskrit_University	IN	HI	1961
+211	95	1	Mahidol University	http://en.wikipedia.org/wiki/Mahidol_University	TH	TH	1943
+212	95	1	University of Debrecen	http://en.wikipedia.org/wiki/University_of_Debrecen	HU	HU	1538
+213	95	2	University of Pisa	http://en.wikipedia.org/wiki/University_of_Pisa	IT	IT	1343
+214	94	1	Bandung Institute of Technology	http://en.wikipedia.org/wiki/Bandung_Institute_of_Technology	ID	WR	1920
+215	94	1	Ben-Gurion University of the Negev	http://en.wikipedia.org/wiki/Ben-Gurion_University_of_the_Negev	IL	HE	1969
+216	94	1	Chonnam National University	http://en.wikipedia.org/wiki/Chonnam_National_University	KR	KO	1952
+217	94	1	Corvinus University of Budapest	http://en.wikipedia.org/wiki/Corvinus_University_of_Budapest	HU	HU	1920
+218	94	1	Nalanda University	http://en.wikipedia.org/wiki/Nalanda_University	IN	HI	2014
+219	94	1	Panteion University	http://en.wikipedia.org/wiki/Panteion_University	GR	EL	1927
+220	94	1	Srinakharinwirot University	http://en.wikipedia.org/wiki/Srinakharinwirot_University	TH	TH	1949
+221	94	4	University of Bristol	http://en.wikipedia.org/wiki/University_of_Bristol	UK	EN	1909
+222	93	1	Babeș-Bolyai University	http://en.wikipedia.org/wiki/Babe%C8%99-Bolyai_University	RO	WR	1919
+223	93	1	Boğaziçi University	http://en.wikipedia.org/wiki/Bo%C4%9Fazi%C3%A7i_University	TR	TR	1863
+224	93	2	East China Normal University	http://en.wikipedia.org/wiki/East_China_Normal_University	CN	ZH	1951
+225	93	1	Federal University of Rio de Janeiro	http://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro	BR	PT	1792
+226	93	1	Mokpo National University	http://en.wikipedia.org/wiki/Mokpo_National_University	KR	KO	1946
+227	93	1	Nepal Sanskrit University	http://en.wikipedia.org/wiki/Nepal_Sanskrit_University	NP	NE	1986
+228	93	2	San Diego State University	http://en.wikipedia.org/wiki/San_Diego_State_University	US	EN	1897
+229	93	1	Universiti Teknologi MARA	http://en.wikipedia.org/wiki/Universiti_Teknologi_MARA	MY	MS	1956
+230	93	3	University of Graz	http://en.wikipedia.org/wiki/University_of_Graz	AT	DE	1585
+231	92	1	Chiang Mai University	http://en.wikipedia.org/wiki/Chiang_Mai_University	TH	TH	1964
+232	92	1	Chung-Ang University	http://en.wikipedia.org/wiki/Chung-Ang_University	KR	KO	1918
+233	92	1	Ege University	http://en.wikipedia.org/wiki/Ege_University	TR	TR	1955
+234	92	1	National University of Malaysia	http://en.wikipedia.org/wiki/National_University_of_Malaysia	MY	MS	1970
+235	92	1	Radboud University Nijmegen	http://en.wikipedia.org/wiki/Radboud_University_Nijmegen	NL	NL	1923
+236	92	1	Sampurnanand Sanskrit Vishwavidyalaya	http://en.wikipedia.org/wiki/Sampurnanand_Sanskrit_Vishwavidyalaya	IN	HI	1791
+237	92	1	Semmelweis University	http://en.wikipedia.org/wiki/Semmelweis_University	HU	HU	1769
+238	92	2	TU Dresden	http://en.wikipedia.org/wiki/TU_Dresden	DE	DE	1828
+239	92	1	Weizmann Institute of Science	http://en.wikipedia.org/wiki/Weizmann_Institute_of_Science	IL	HE	1934
+240	91	1	Athens University of Economics and Business	http://en.wikipedia.org/wiki/Athens_University_of_Economics_and_Business	GR	EL	1920
+241	91	1	Hanyang University	http://en.wikipedia.org/wiki/Hanyang_University	KR	KO	1939
+242	91	1	Hosei University	http://en.wikipedia.org/wiki/Hosei_University	JP	JA	1880
+243	91	1	Marmara University	http://en.wikipedia.org/wiki/Marmara_University	TR	TR	1883
+244	91	1	Nicolaus Copernicus University in Toruń	http://en.wikipedia.org/wiki/Nicolaus_Copernicus_University_in_Toru%C5%84	PL	PL	1945
+245	91	1	Padjadjaran University	http://en.wikipedia.org/wiki/Padjadjaran_University	ID	WR	1957
+246	91	1	Patna University	http://en.wikipedia.org/wiki/Patna_University	IN	HI	1917
+247	91	2	University of Tsukuba	http://en.wikipedia.org/wiki/University_of_Tsukuba	JP	JA	1872
+248	90	1	IT University of Copenhagen	http://en.wikipedia.org/wiki/IT_University_of_Copenhagen	DK	DA	1999
+249	90	1	Payame Noor University	http://en.wikipedia.org/wiki/Payame_Noor_University	IR	FA	1987
+250	90	1	Punjabi University	http://en.wikipedia.org/wiki/Punjabi_University	IN	HI	1962
+251	90	1	Sehan University	http://en.wikipedia.org/wiki/Sehan_University	KR	KO	1994
+252	90	1	Université Laval	http://en.wikipedia.org/wiki/Universit%C3%A9_Laval	CA	FR	1663
+253	90	1	University of Lisbon	http://en.wikipedia.org/wiki/University_of_Lisbon	PT	PT	1911
+254	90	1	University of Miskolc	http://en.wikipedia.org/wiki/University_of_Miskolc	HU	HU	1735
+255	90	1	Wageningen University and Research Centre	http://en.wikipedia.org/wiki/Wageningen_University_and_Research_Centre	NL	NL	1918
+256	89	1	Bangkok University	http://en.wikipedia.org/wiki/Bangkok_University	TH	TH	1962
+257	89	1	Hacettepe University	http://en.wikipedia.org/wiki/Hacettepe_University	TR	TR	1967
+258	89	1	National University of Kharkiv	http://en.wikipedia.org/wiki/National_University_of_Kharkiv	UA	UK	1804
+259	89	1	Rashtriya Sanskrit Sansthan	http://en.wikipedia.org/wiki/Rashtriya_Sanskrit_Sansthan	IN	HI	1970
+260	89	1	Sunchon National University	http://en.wikipedia.org/wiki/Sunchon_National_University	KR	KO	1935
+261	89	4	University of Leeds	http://en.wikipedia.org/wiki/University_of_Leeds	UK	EN	1904
+262	89	1	University of Łódź	http://en.wikipedia.org/wiki/University_of_%C5%81%C3%B3d%C5%BA	PL	PL	1945
+263	89	1	University of Science, Malaysia	http://en.wikipedia.org/wiki/University_of_Science%2C_Malaysia	MY	MS	1969
+264	89	1	Vrije Universiteit Brussel	http://en.wikipedia.org/wiki/Vrije_Universiteit_Brussel	BE	NL	1834
+265	88	1	Damascus University	http://en.wikipedia.org/wiki/Damascus_University	SY	AR	1923
+266	88	1	Delft University of Technology	http://en.wikipedia.org/wiki/Delft_University_of_Technology	NL	NL	1842
+267	88	1	Dongshin University	http://en.wikipedia.org/wiki/Dongshin_University	KR	KO	1986
+268	88	1	Isfahan University of Technology	http://en.wikipedia.org/wiki/Isfahan_University_of_Technology	IR	FA	1977
+269	88	1	Luleå University of Technology	http://en.wikipedia.org/wiki/Lule%C3%A5_University_of_Technology	SE	SV	1971
+270	88	1	Renmin University of China	http://en.wikipedia.org/wiki/Renmin_University_of_China	CN	ZH	1937
+271	88	1	Silpakorn University	http://en.wikipedia.org/wiki/Silpakorn_University	TH	TH	1943
+272	88	1	University of Brasília	http://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia	BR	PT	1961
+273	88	1	University of Gdańsk	http://en.wikipedia.org/wiki/University_of_Gda%C5%84sk	PL	PL	1970
+274	88	1	University of Mumbai	http://en.wikipedia.org/wiki/University_of_Mumbai	IN	HI	1857
+275	88	1	Vietnam National University, Hanoi	http://en.wikipedia.org/wiki/Vietnam_National_University%2C_Hanoi	VN	VI	1993
+276	87	1	Ain Shams University	http://en.wikipedia.org/wiki/Ain_Shams_University	EG	AR	1950
+277	87	1	Erasmus University Rotterdam	http://en.wikipedia.org/wiki/Erasmus_University_Rotterdam	NL	NL	1913
+278	87	1	Gazi University	http://en.wikipedia.org/wiki/Gazi_University	TR	TR	1926
+279	87	1	Hanlyo University	http://en.wikipedia.org/wiki/Hanlyo_University	KR	KO	1995
+280	87	1	Osaka University	http://en.wikipedia.org/wiki/Osaka_University	JP	JA	1724
+281	87	1	Prince of Songkla University	http://en.wikipedia.org/wiki/Prince_of_Songkla_University	TH	TH	1967
+282	87	1	Sharif University of Technology	http://en.wikipedia.org/wiki/Sharif_University_of_Technology	IR	FA	1966
+283	87	1	Universiti Putra Malaysia	http://en.wikipedia.org/wiki/Universiti_Putra_Malaysia	MY	MS	1931
+284	87	1	University of Lucknow	http://en.wikipedia.org/wiki/University_of_Lucknow	IN	HI	1921
+285	87	1	University of Silesia in Katowice	http://en.wikipedia.org/wiki/University_of_Silesia_in_Katowice	PL	PL	1968
+286	86	1	Aryabhatta Knowledge University	http://en.wikipedia.org/wiki/Aryabhatta_Knowledge_University	IN	HI	2010
+287	86	1	Mahachulalongkornrajavidyalaya University	http://en.wikipedia.org/wiki/Mahachulalongkornrajavidyalaya_University	TH	TH	1887
+288	86	1	Maria Curie-Skłodowska University	http://en.wikipedia.org/wiki/Maria_Curie-Sk%C5%82odowska_University	PL	PL	1944
+289	86	1	Mokpo National Maritime University	http://en.wikipedia.org/wiki/Mokpo_National_Maritime_University	KR	KO	1950
+290	86	1	University of Antwerp	http://en.wikipedia.org/wiki/University_of_Antwerp	BE	NL	1852
+291	86	1	University of Campinas	http://en.wikipedia.org/wiki/University_of_Campinas	BR	PT	1966
+292	86	1	Zhejiang University	http://en.wikipedia.org/wiki/Zhejiang_University	CN	ZH	1897
+293	85	1	Allameh Tabataba'i University	http://en.wikipedia.org/wiki/Allameh_Tabataba%27i_University	IR	FA	1957
+294	85	1	Dokuz Eylül University	http://en.wikipedia.org/wiki/Dokuz_Eyl%C3%BCl_University	TR	TR	1982
+295	85	1	Jawaharlal Nehru University, Delhi	http://en.wikipedia.org/wiki/Jawaharlal_Nehru_University%2C_Delhi	IN	HI	1969
+296	85	1	King Saud University	http://en.wikipedia.org/wiki/King_Saud_University	SA	AR	1957
+297	85	1	Kyung Hee University	http://en.wikipedia.org/wiki/Kyung_Hee_University	KR	KO	1949
+298	85	1	National Research University – Higher School of Economics	http://en.wikipedia.org/wiki/National_Research_University_%E2%80%93_Higher_School_of_Economics	RU	RU	1992
+299	84	1	Alexandria University	http://en.wikipedia.org/wiki/Alexandria_University	EG	AR	1938
+300	84	1	Anadolu University	http://en.wikipedia.org/wiki/Anadolu_University	TR	TR	1958
+301	84	1	Ariel University	http://en.wikipedia.org/wiki/Ariel_University	IL	HE	1982
+302	84	1	Bauman Moscow State Technical University	http://en.wikipedia.org/wiki/Bauman_Moscow_State_Technical_University	RU	RU	1830
+303	84	1	Gurukul Kangri Vishwavidyalaya	http://en.wikipedia.org/wiki/Gurukul_Kangri_Vishwavidyalaya	IN	HI	1902
+304	84	1	Ritsumeikan University	http://en.wikipedia.org/wiki/Ritsumeikan_University	JP	JA	1900
+305	84	1	Shiraz University	http://en.wikipedia.org/wiki/Shiraz_University	IR	FA	1946
+306	84	1	Sungkyunkwan University	http://en.wikipedia.org/wiki/Sungkyunkwan_University	KR	KO	1398
+307	84	1	Université de Montréal	http://en.wikipedia.org/wiki/Universit%C3%A9_de_Montr%C3%A9al	CA	EN	1878
+308	84	1	University of Patras	http://en.wikipedia.org/wiki/University_of_Patras	GR	EL	1964
+309	84	4	Washington University in St. Louis	http://en.wikipedia.org/wiki/Washington_University_in_St._Louis	US	EN	1853
+310	83	2	Brandeis University	http://en.wikipedia.org/wiki/Brandeis_University	US	EN	1948
+311	83	1	Cardinal Stefan Wyszyński University in Warsaw	http://en.wikipedia.org/wiki/Cardinal_Stefan_Wyszy%C5%84ski_University_in_Warsaw	PL	PL	1999
+312	83	1	Federal University of Minas Gerais	http://en.wikipedia.org/wiki/Federal_University_of_Minas_Gerais	BR	PT	1927
+313	83	1	Gauhati University	http://en.wikipedia.org/wiki/Gauhati_University	IN	HI	1948
+314	83	1	Kyushu University	http://en.wikipedia.org/wiki/Kyushu_University	JP	JA	1903
+315	83	1	Rangsit University	http://en.wikipedia.org/wiki/Rangsit_University	TH	TH	1986
+316	83	1	Sun Yat-sen University	http://en.wikipedia.org/wiki/Sun_Yat-sen_University	CN	ZH	1924
+317	83	1	Università Cattolica del Sacro Cuore	http://en.wikipedia.org/wiki/Universit%C3%A0_Cattolica_del_Sacro_Cuore	IT	IT	1921
+318	83	1	University of Baghdad	http://en.wikipedia.org/wiki/University_of_Baghdad	IQ	AR	1957
+319	83	2	University of Hanover	http://en.wikipedia.org/wiki/University_of_Hanover	DE	DE	1831
+320	83	1	University of West Hungary	http://en.wikipedia.org/wiki/University_of_West_Hungary	HU	HU	1735
+321	82	1	Central University for Tibetan Studies	http://en.wikipedia.org/wiki/Central_University_for_Tibetan_Studies	IN	HI	1967
+322	82	1	Democritus University of Thrace	http://en.wikipedia.org/wiki/Democritus_University_of_Thrace	GR	EL	1974
+323	82	1	Federal University of Rio Grande do Sul	http://en.wikipedia.org/wiki/Federal_University_of_Rio_Grande_do_Sul	BR	PT	1947
+324	82	1	Karadeniz Technical University	http://en.wikipedia.org/wiki/Karadeniz_Technical_University	TR	TR	1955
+325	82	1	Nankai University	http://en.wikipedia.org/wiki/Nankai_University	CN	ZH	1919
+326	82	1	Paris Nanterre University	http://en.wikipedia.org/wiki/Paris_Nanterre_University	FR	FR	1964
+327	81	1	Dongguk University	http://en.wikipedia.org/wiki/Dongguk_University	KR	KO	1906
+328	81	1	Hitotsubashi University	http://en.wikipedia.org/wiki/Hitotsubashi_University	JP	JA	1875
+329	81	1	Kuwait University	http://en.wikipedia.org/wiki/Kuwait_University	KW	AR	1966
+330	81	1	Linnaeus University	http://en.wikipedia.org/wiki/Linnaeus_University	SE	SV	1977
+331	81	1	Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya	http://en.wikipedia.org/wiki/Mahatma_Gandhi_Antarrashtriya_Hindi_Vishwavidyalaya	IN	HI	1997
+332	81	1	Odense University	http://en.wikipedia.org/wiki/Odense_University	DK	DA	1966
+333	81	1	Scuola Normale Superiore di Pisa	http://en.wikipedia.org/wiki/Scuola_Normale_Superiore_di_Pisa	IT	IT	1810
+334	81	1	Szent István University	http://en.wikipedia.org/wiki/Szent_Istv%C3%A1n_University	HU	HU	2000
+335	81	1	Universiti Malaysia Perlis	http://en.wikipedia.org/wiki/Universiti_Malaysia_Perlis	MY	MS	2001
+336	81	1	University of Crete	http://en.wikipedia.org/wiki/University_of_Crete	GR	EL	1973
+337	81	1	University of Minho	http://en.wikipedia.org/wiki/University_of_Minho	PT	PT	1973
+338	81	2	Yıldız Technical University	http://en.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z_Technical_University	TR	TR	1911
+339	80	1	Ewha Womans University	http://en.wikipedia.org/wiki/Ewha_Womans_University	KR	KO	1886
+340	80	1	Khon Kaen University	http://en.wikipedia.org/wiki/Khon_Kaen_University	TH	TH	1966
+341	80	1	Maharishi Panini Sanskrit Evam Vedic Vishwavidyalaya	http://en.wikipedia.org/wiki/Maharishi_Panini_Sanskrit_Evam_Vedic_Vishwavidyalaya	IN	HI	2008
+342	80	1	Tilburg University	http://en.wikipedia.org/wiki/Tilburg_University	NL	NL	1927
+343	80	1	Universiti Utara Malaysia	http://en.wikipedia.org/wiki/Universiti_Utara_Malaysia	MY	MS	1984
+344	80	2	University of Twente	http://en.wikipedia.org/wiki/University_of_Twente	NL	NL	1961
+345	79	1	Lalit Narayan Mithila University	http://en.wikipedia.org/wiki/Lalit_Narayan_Mithila_University	IN	HI	1972
+346	79	1	Maastricht University	http://en.wikipedia.org/wiki/Maastricht_University	NL	NL	1976
+347	79	1	Nagoya University	http://en.wikipedia.org/wiki/Nagoya_University	JP	JA	1871
+348	79	1	Universiti Malaysia Terengganu	http://en.wikipedia.org/wiki/Universiti_Malaysia_Terengganu	MY	MS	1979
+349	79	1	University of Ioannina	http://en.wikipedia.org/wiki/University_of_Ioannina	GR	EL	1964
+350	79	1	Wuhan University	http://en.wikipedia.org/wiki/Wuhan_University	CN	ZH	1893
+351	78	1	École nationale d'administration	http://en.wikipedia.org/wiki/%C3%89cole_nationale_d%27administration	FR	FR	1945
+352	78	1	Eszterházy Károly University	http://en.wikipedia.org/wiki/Eszterh%C3%A1zy_K%C3%A1roly_University	HU	HU	1774
+353	78	1	Moscow Institute of Physics and Technology	http://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology	RU	RU	1946
+354	78	1	Shri Jagannath Sanskrit Vishvavidayalaya	http://en.wikipedia.org/wiki/Shri_Jagannath_Sanskrit_Vishvavidayalaya	IN	HI	1981
+355	78	1	University of Bordeaux 1	http://en.wikipedia.org/wiki/University_of_Bordeaux_1	FR	FR	1971
+356	77	1	Atatürk University	http://en.wikipedia.org/wiki/Atat%C3%BCrk_University	TR	TR	1957
+357	77	1	Dankook University	http://en.wikipedia.org/wiki/Dankook_University	KR	KO	1947
+358	77	3	Florida State University	http://en.wikipedia.org/wiki/Florida_State_University	US	EN	1851
+359	77	1	Johannes Gutenberg University of Mainz	http://en.wikipedia.org/wiki/Johannes_Gutenberg_University_of_Mainz	DE	DE	1477
+360	77	2	Oregon State University	http://en.wikipedia.org/wiki/Oregon_State_University	US	EN	1868
+361	77	3	Rice University	http://en.wikipedia.org/wiki/Rice_University	US	EN	1912
+362	77	1	Rikkyo University	http://en.wikipedia.org/wiki/Rikkyo_University	JP	JA	1874
+363	77	1	The American University in Cairo	http://en.wikipedia.org/wiki/The_American_University_in_Cairo	EG	AR	1919
+364	77	2	University of Nottingham	http://en.wikipedia.org/wiki/University_of_Nottingham	UK	EN	1881
+365	77	1	University of the Aegean	http://en.wikipedia.org/wiki/University_of_the_Aegean	GR	EL	1984
+366	77	1	University of Valencia	http://en.wikipedia.org/wiki/University_of_Valencia	ES	ES	1499
+367	76	1	Amirkabir University of Technology	http://en.wikipedia.org/wiki/Amirkabir_University_of_Technology	IR	FA	1958
+368	76	1	Autonomous University of Madrid	http://en.wikipedia.org/wiki/Autonomous_University_of_Madrid	ES	ES	1968
+369	76	1	Beijing Normal University	http://en.wikipedia.org/wiki/Beijing_Normal_University	CN	ZH	1902
+370	76	1	Doshisha University	http://en.wikipedia.org/wiki/Doshisha_University	JP	JA	1875
+371	76	1	Kavikulaguru Kalidas Sanskrit University	http://en.wikipedia.org/wiki/Kavikulaguru_Kalidas_Sanskrit_University	IN	HI	1997
+372	76	1	Naresuan University	http://en.wikipedia.org/wiki/Naresuan_University	TH	TH	1990
+373	76	1	University of Erlangen-Nuremberg	http://en.wikipedia.org/wiki/University_of_Erlangen-Nuremberg	DE	DE	1742
+374	76	1	University of Kuala Lumpur	http://en.wikipedia.org/wiki/University_of_Kuala_Lumpur	MY	MS	2002
+375	76	1	University of Milan	http://en.wikipedia.org/wiki/University_of_Milan	IT	IT	1924
+376	76	1	University of Pannonia	http://en.wikipedia.org/wiki/University_of_Pannonia	HU	HU	1949
+377	76	1	University of Porto	http://en.wikipedia.org/wiki/University_of_Porto	PT	PT	1911
+378	75	1	Karnataka Samskrit University	http://en.wikipedia.org/wiki/Karnataka_Samskrit_University	IN	HI	2010
+379	75	1	Tarbiat Modares University	http://en.wikipedia.org/wiki/Tarbiat_Modares_University	IR	FA	1982
+380	75	1	Thaksin University	http://en.wikipedia.org/wiki/Thaksin_University	TH	TH	1968
+381	75	2	University of Lausanne	http://en.wikipedia.org/wiki/University_of_Lausanne	CH	DE	1537
+382	75	1	University of Szczecin	http://en.wikipedia.org/wiki/University_of_Szczecin	PL	PL	1984
+383	74	1	Eindhoven University of Technology	http://en.wikipedia.org/wiki/Eindhoven_University_of_Technology	NL	NL	1956
+384	74	1	Iran University of Medical Sciences	http://en.wikipedia.org/wiki/Iran_University_of_Medical_Sciences	IR	FA	1974
+385	74	1	Mid Sweden University	http://en.wikipedia.org/wiki/Mid_Sweden_University	SE	SV	1993
+386	74	1	Peter the Great St. Petersburg Polytechnic University	http://en.wikipedia.org/wiki/Peter_the_Great_St._Petersburg_Polytechnic_University	RU	RU	1899
+387	74	1	Shree Somnath Sanskrit University	http://en.wikipedia.org/wiki/Shree_Somnath_Sanskrit_University	IN	HI	2005
+388	74	1	Sophia University	http://en.wikipedia.org/wiki/Sophia_University	JP	JA	1913
+389	74	1	Universiti Malaysia Sabah	http://en.wikipedia.org/wiki/Universiti_Malaysia_Sabah	MY	MS	1994
+390	74	1	University of the Republic (Uruguay)	http://en.wikipedia.org/wiki/University_of_the_Republic_%28Uruguay%29	UY	ES	1849
+391	73	1	Aligarh Muslim University	http://en.wikipedia.org/wiki/Aligarh_Muslim_University	IN	HI	1875
+392	73	1	Aoyama Gakuin University	http://en.wikipedia.org/wiki/Aoyama_Gakuin_University	JP	JA	1874
+393	73	1	Gadjah Mada University	http://en.wikipedia.org/wiki/Gadjah_Mada_University	ID	WR	1949
+394	73	1	Istanbul Bilgi University	http://en.wikipedia.org/wiki/Istanbul_Bilgi_University	TR	TR	1996
+395	73	1	Konkuk University	http://en.wikipedia.org/wiki/Konkuk_University	KR	KO	1946
+396	73	1	National University of Colombia	http://en.wikipedia.org/wiki/National_University_of_Colombia	CO	ES	1867
+397	73	1	Rajamangala University of Technology	http://en.wikipedia.org/wiki/Rajamangala_University_of_Technology	TH	TH	2005
+398	73	1	Ruhr University Bochum	http://en.wikipedia.org/wiki/Ruhr_University_Bochum	DE	DE	1962
+399	72	1	Comenius University	http://en.wikipedia.org/wiki/Comenius_University	SK	WR	1919
+400	72	1	Panjab University	http://en.wikipedia.org/wiki/Panjab_University	IN	HI	1947
+401	72	1	Pierre and Marie Curie University	http://en.wikipedia.org/wiki/Pierre_and_Marie_Curie_University	FR	FR	1971
+402	72	1	Tokyo Institute of Technology	http://en.wikipedia.org/wiki/Tokyo_Institute_of_Technology	JP	JA	1881
+403	72	1	Tomsk State University	http://en.wikipedia.org/wiki/Tomsk_State_University	RU	RU	1880
+404	72	1	University of Palermo	http://en.wikipedia.org/wiki/University_of_Palermo	IT	IT	1806
+405	72	1	University of Valladolid	http://en.wikipedia.org/wiki/University_of_Valladolid	ES	ES	1241
+406	71	1	Bilkent University	http://en.wikipedia.org/wiki/Bilkent_University	TR	TR	1984
+407	71	1	Budapest Business School	http://en.wikipedia.org/wiki/Budapest_Business_School	HU	HU	1857
+408	71	1	École des ponts ParisTech	http://en.wikipedia.org/wiki/%C3%89cole_des_ponts_ParisTech	FR	FR	1747
+409	71	1	Hongik University	http://en.wikipedia.org/wiki/Hongik_University	KR	KO	1946
+410	71	1	Tokai University	http://en.wikipedia.org/wiki/Tokai_University	JP	JA	1924
+411	71	1	Universiti Malaysia Sarawak	http://en.wikipedia.org/wiki/Universiti_Malaysia_Sarawak	MY	MS	1992
+412	71	2	University of Alabama	http://en.wikipedia.org/wiki/University_of_Alabama	US	EN	1831
+413	71	1	Veer Kunwar Singh University	http://en.wikipedia.org/wiki/Veer_Kunwar_Singh_University	IN	HI	1992
+414	71	1	VIA University College	http://en.wikipedia.org/wiki/VIA_University_College	DK	DA	2008
+415	71	1	Xiamen University	http://en.wikipedia.org/wiki/Xiamen_University	CN	ZH	1921
+416	70	1	Central University of Venezuela	http://en.wikipedia.org/wiki/Central_University_of_Venezuela	VE	ES	1721
+417	70	1	Chiba University	http://en.wikipedia.org/wiki/Chiba_University	JP	JA	1949
+418	70	1	Magadh University	http://en.wikipedia.org/wiki/Magadh_University	IN	HI	1962
+419	70	1	Paris 8 University	http://en.wikipedia.org/wiki/Paris_8_University	FR	FR	1969
+420	70	1	Sapientia University	http://en.wikipedia.org/wiki/Sapientia_University	HU	HU	2000
+421	70	1	Trisakti University	http://en.wikipedia.org/wiki/Trisakti_University	ID	WR	1965
+422	70	1	University of Hasselt	http://en.wikipedia.org/wiki/University_of_Hasselt	BE	NL	1971
+423	70	1	University of Piraeus	http://en.wikipedia.org/wiki/University_of_Piraeus	GR	EL	1938
+424	70	2	University of Strathclyde	http://en.wikipedia.org/wiki/University_of_Strathclyde	UK	EN	1964
+425	70	1	University of Warmia and Mazury in Olsztyn	http://en.wikipedia.org/wiki/University_of_Warmia_and_Mazury_in_Olsztyn	PL	PL	1999
+426	69	1	Birla Institute of Technology and Science, Pilani	http://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science%2C_Pilani	IN	HI	1964
+427	69	1	Budapest Metropolitan University	http://en.wikipedia.org/wiki/Budapest_Metropolitan_University	HU	HU	2000
+428	69	1	École pour l'informatique et les techniques avancées	http://en.wikipedia.org/wiki/%C3%89cole_pour_l%27informatique_et_les_techniques_avanc%C3%A9es	FR	FR	1984
+429	69	1	Federal University of Bahia	http://en.wikipedia.org/wiki/Federal_University_of_Bahia	BR	PT	1946
+430	69	1	Hiroshima University	http://en.wikipedia.org/wiki/Hiroshima_University	JP	JA	1929
+431	69	1	Mahasarakham University	http://en.wikipedia.org/wiki/Mahasarakham_University	TH	TH	1994
+432	69	1	Nanyang Technological University	http://en.wikipedia.org/wiki/Nanyang_Technological_University	SG	ZH	1991
+433	69	1	Paris Diderot University	http://en.wikipedia.org/wiki/Paris_Diderot_University	FR	FR	1970
+434	69	1	Selçuk University	http://en.wikipedia.org/wiki/Sel%C3%A7uk_University	TR	TR	1975
+435	69	1	University of Catania	http://en.wikipedia.org/wiki/University_of_Catania	IT	IT	1434
+436	69	2	University of Oklahoma	http://en.wikipedia.org/wiki/University_of_Oklahoma	US	EN	1890
+437	69	1	University of Seville	http://en.wikipedia.org/wiki/University_of_Seville	ES	ES	1505
+438	68	1	Assumption University (Thailand)	http://en.wikipedia.org/wiki/Assumption_University_%28Thailand%29	TH	TH	1969
+439	68	1	Autonomous University of Barcelona	http://en.wikipedia.org/wiki/Autonomous_University_of_Barcelona	ES	ES	1968
+440	68	1	King Abdulaziz University	http://en.wikipedia.org/wiki/King_Abdulaziz_University	SA	AR	1967
+441	68	1	Kobe University	http://en.wikipedia.org/wiki/Kobe_University	JP	JA	1949
+442	68	1	Sogang University	http://en.wikipedia.org/wiki/Sogang_University	KR	KO	1960
+443	68	1	Tongji University	http://en.wikipedia.org/wiki/Tongji_University	CN	ZH	1907
+444	68	1	Universiti Sultan Zainal Abidin	http://en.wikipedia.org/wiki/Universiti_Sultan_Zainal_Abidin	MY	MS	1980
+445	68	1	University of Białystok	http://en.wikipedia.org/wiki/University_of_Bia%C5%82ystok	PL	PL	1997
+446	68	1	University of Giessen	http://en.wikipedia.org/wiki/University_of_Giessen	DE	DE	1607
+447	67	1	Federal University of Pernambuco	http://en.wikipedia.org/wiki/Federal_University_of_Pernambuco	BR	PT	1827
+448	67	1	Instituto Politécnico Nacional	http://en.wikipedia.org/wiki/Instituto_Polit%C3%A9cnico_Nacional	MX	ES	1936
+449	67	2	Nanzan University	http://en.wikipedia.org/wiki/Nanzan_University	JP	JA	1949
+450	67	1	Near East University	http://en.wikipedia.org/wiki/Near_East_University	CY	TR	1988
+451	67	1	Óbuda University	http://en.wikipedia.org/wiki/%C3%93buda_University	HU	HU	1879
+452	67	1	The Open University of Japan	http://en.wikipedia.org/wiki/The_Open_University_of_Japan	JP	JA	1981
+453	67	1	Université du Québec à Montréal	http://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al	CA	EN	1969
+454	67	1	University of Madras	http://en.wikipedia.org/wiki/University_of_Madras	IN	HI	1857
+455	66	1	Burapha University	http://en.wikipedia.org/wiki/Burapha_University	TH	TH	1955
+456	66	1	Indian Institute of Technology Roorkee	http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Roorkee	IN	HI	1847
+457	66	1	Inha University	http://en.wikipedia.org/wiki/Inha_University	KR	KO	1954
+458	66	2	Roma Tre University	http://en.wikipedia.org/wiki/Roma_Tre_University	IT	IT	1992
+459	66	1	Sana'a University	http://en.wikipedia.org/wiki/Sana%27a_University	YE	AR	1970
+460	66	1	São Paulo State University	http://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_University	BR	PT	1976
+461	66	1	Széchenyi István University	http://en.wikipedia.org/wiki/Sz%C3%A9chenyi_Istv%C3%A1n_University	HU	HU	2002
+462	66	1	University of Granada	http://en.wikipedia.org/wiki/University_of_Granada	ES	ES	1531
+463	66	1	University of Liverpool	http://en.wikipedia.org/wiki/University_of_Liverpool	UK	EN	1903
+464	66	1	Yogyakarta State University	http://en.wikipedia.org/wiki/Yogyakarta_State_University	ID	WR	1964
+465	65	1	Asian Institute of Technology	http://en.wikipedia.org/wiki/Asian_Institute_of_Technology	TH	TH	1959
+466	65	1	Çanakkale Onsekiz Mart University	http://en.wikipedia.org/wiki/%C3%87anakkale_Onsekiz_Mart_University	TR	TR	1992
+467	65	1	Central European University	http://en.wikipedia.org/wiki/Central_European_University	HU	HU	1991
+468	65	1	École Centrale Paris	http://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris	FR	FR	1829
+469	65	1	Jai Narain Vyas University	http://en.wikipedia.org/wiki/Jai_Narain_Vyas_University	IN	HI	1962
+470	65	1	Myongji University	http://en.wikipedia.org/wiki/Myongji_University	KR	KO	1948
+471	65	1	National University of La Plata	http://en.wikipedia.org/wiki/National_University_of_La_Plata	AR	ES	1897
+472	65	1	Rio de Janeiro State University	http://en.wikipedia.org/wiki/Rio_de_Janeiro_State_University	BR	PT	1950
+473	65	1	University of Isfahan	http://en.wikipedia.org/wiki/University_of_Isfahan	IR	FA	1946
+474	64	1	Belarusian State University	http://en.wikipedia.org/wiki/Belarusian_State_University	BY	RU	1921
+475	64	1	Dr. Hari Singh Gour University	http://en.wikipedia.org/wiki/Dr._Hari_Singh_Gour_University	IN	HI	1946
+476	64	1	Hanoi University of Science and Technology	http://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology	VN	VI	1956
+477	64	1	Jilin University	http://en.wikipedia.org/wiki/Jilin_University	CN	ZH	1946
+478	64	1	Kansai University	http://en.wikipedia.org/wiki/Kansai_University	JP	JA	1886
+479	64	1	King Mongkut's University of Technology Thonburi	http://en.wikipedia.org/wiki/King_Mongkut%27s_University_of_Technology_Thonburi	TH	TH	1960
+480	64	1	Universiti Tunku Abdul Rahman	http://en.wikipedia.org/wiki/Universiti_Tunku_Abdul_Rahman	MY	MS	2002
+481	64	2	University of Dhaka	http://en.wikipedia.org/wiki/University_of_Dhaka	BD	WR	1921
+482	63	1	Ferdowsi University of Mashhad	http://en.wikipedia.org/wiki/Ferdowsi_University_of_Mashhad	IR	FA	1949
+483	63	1	Karlsruhe Institute of Technology	http://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology	DE	DE	1825
+484	63	1	Mohammed V University	http://en.wikipedia.org/wiki/Mohammed_V_University	MA	AR	1957
+485	63	1	Polytechnic School of the University of São Paulo	http://en.wikipedia.org/wiki/Polytechnic_School_of_the_University_of_S%C3%A3o_Paulo	BR	PT	1893
+486	63	1	Shandong University	http://en.wikipedia.org/wiki/Shandong_University	CN	ZH	1901
+487	63	1	Suan Dusit University	http://en.wikipedia.org/wiki/Suan_Dusit_University	TH	TH	1934
+488	63	1	University of Genoa	http://en.wikipedia.org/wiki/University_of_Genoa	IT	IT	1481
+489	63	1	University of Kaposvár	http://en.wikipedia.org/wiki/University_of_Kaposv%C3%A1r	HU	HU	2000
+490	63	1	University of Rajasthan	http://en.wikipedia.org/wiki/University_of_Rajasthan	IN	HI	1948
+491	63	1	University of Zaragoza	http://en.wikipedia.org/wiki/University_of_Zaragoza	ES	ES	1542
+492	63	1	Wonkwang University	http://en.wikipedia.org/wiki/Wonkwang_University	KR	KO	1971
+493	63	1	YARSI University	http://en.wikipedia.org/wiki/YARSI_University	ID	WR	1967
+494	62	1	Kwansei Gakuin University	http://en.wikipedia.org/wiki/Kwansei_Gakuin_University	JP	JA	1889
+495	62	1	Medical University of Warsaw	http://en.wikipedia.org/wiki/Medical_University_of_Warsaw	PL	PL	1809
+496	62	1	Pusan National University	http://en.wikipedia.org/wiki/Pusan_National_University	KR	KO	1946
+497	62	1	Sichuan University	http://en.wikipedia.org/wiki/Sichuan_University	CN	ZH	1740
+498	62	1	University of Medicine and Pharmacy of Târgu Mureș	http://en.wikipedia.org/wiki/University_of_Medicine_and_Pharmacy_of_T%C3%A2rgu_Mure%C8%99	RO	WR	1945
+499	61	1	Bocconi University	http://en.wikipedia.org/wiki/Bocconi_University	IT	IT	1902
+500	61	1	Indian Institute of Technology Kanpur	http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur	IN	HI	1959
+501	61	1	National Economics University	http://en.wikipedia.org/wiki/National_Economics_University	VN	VI	1956
+502	61	1	National University of Córdoba	http://en.wikipedia.org/wiki/National_University_of_C%C3%B3rdoba	AR	ES	1613
+503	61	1	Sabancı University	http://en.wikipedia.org/wiki/Sabanc%C4%B1_University	TR	TR	1994
+504	61	1	Soongsil University	http://en.wikipedia.org/wiki/Soongsil_University	KR	KO	1897
+505	61	2	Texas A&M University	http://en.wikipedia.org/wiki/Texas_A%26M_University	US	EN	1876
+506	61	1	University of Thessaly	http://en.wikipedia.org/wiki/University_of_Thessaly	GR	EL	1984
+507	61	2	University of Wisconsin System	http://en.wikipedia.org/wiki/University_of_Wisconsin_System	US	EN	1848
+508	60	1	Farhangian University	http://en.wikipedia.org/wiki/Farhangian_University	IR	FA	2012
+509	60	1	Federal University of Viçosa	http://en.wikipedia.org/wiki/Federal_University_of_Vi%C3%A7osa	BR	PT	1922
+510	60	1	King Mongkut's Institute of Technology Ladkrabang	http://en.wikipedia.org/wiki/King_Mongkut%27s_Institute_of_Technology_Ladkrabang	TH	TH	1960
+511	60	1	Toyo University	http://en.wikipedia.org/wiki/Toyo_University	JP	JA	1887
+512	60	1	University of Innsbruck	http://en.wikipedia.org/wiki/University_of_Innsbruck	AT	DE	1669
+513	60	1	University of Siena	http://en.wikipedia.org/wiki/University_of_Siena	IT	IT	1240
+514	60	1	University of Westminster	http://en.wikipedia.org/wiki/University_of_Westminster	UK	EN	1838
+515	59	1	Alabama State University	http://en.wikipedia.org/wiki/Alabama_State_University	US	EN	1867
+516	59	1	Gakushuin University	http://en.wikipedia.org/wiki/Gakushuin_University	JP	JA	1847
+517	59	1	Holon Institute of Technology	http://en.wikipedia.org/wiki/Holon_Institute_of_Technology	IL	HE	1969
+518	59	1	Indian Institute of Technology Madras	http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Madras	IN	HI	1959
+519	59	1	Ionian University	http://en.wikipedia.org/wiki/Ionian_University	GR	EL	1984
+520	59	1	National University of Distance Education	http://en.wikipedia.org/wiki/National_University_of_Distance_Education	ES	ES	1972
+521	59	1	Novosibirsk State University	http://en.wikipedia.org/wiki/Novosibirsk_State_University	RU	RU	1959
+522	59	1	Saarland University	http://en.wikipedia.org/wiki/Saarland_University	DE	DE	1948
+523	59	1	Sripatum University	http://en.wikipedia.org/wiki/Sripatum_University	TH	TH	1970
+524	59	1	Universiti Tun Abdul Razak	http://en.wikipedia.org/wiki/Universiti_Tun_Abdul_Razak	MY	MS	1997
+525	59	1	Yeditepe University	http://en.wikipedia.org/wiki/Yeditepe_University	TR	TR	1996
+526	58	1	Dhurakij Pundit University	http://en.wikipedia.org/wiki/Dhurakij_Pundit_University	TH	TH	1968
+527	58	1	Dr. Bhimrao Ambedkar University	http://en.wikipedia.org/wiki/Dr._Bhimrao_Ambedkar_University	IN	HI	1927
+528	58	1	Kindai University	http://en.wikipedia.org/wiki/Kindai_University	JP	JA	1925
+529	58	1	Saint Joseph University	http://en.wikipedia.org/wiki/Saint_Joseph_University	LB	AR	1875
+530	58	1	Saint Petersburg State Institute of Technology	http://en.wikipedia.org/wiki/Saint_Petersburg_State_Institute_of_Technology	RU	RU	1828
+531	58	1	Southeast University	http://en.wikipedia.org/wiki/Southeast_University	CN	ZH	1902
+532	58	1	Supélec	http://en.wikipedia.org/wiki/Sup%C3%A9lec	FR	FR	1894
+533	58	1	Università degli Studi di Napoli "L'Orientale"	http://en.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_di_Napoli_%22L%27Orientale%22	IT	IT	1732
+534	58	1	Università degli Studi Niccolò Cusano	http://en.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_Niccol%C3%B2_Cusano	IT	IT	2006
+535	58	1	University of Cyprus	http://en.wikipedia.org/wiki/University_of_Cyprus	CY	EL	1989
+536	58	2	University of Rome Tor Vergata	http://en.wikipedia.org/wiki/University_of_Rome_Tor_Vergata	IT	IT	1303
+537	57	1	Federal University of Santa Catarina	http://en.wikipedia.org/wiki/Federal_University_of_Santa_Catarina	BR	PT	1962
+538	57	1	King Mongkut's University of Technology North Bangkok	http://en.wikipedia.org/wiki/King_Mongkut%27s_University_of_Technology_North_Bangkok	TH	TH	1959
+539	57	1	University of Oviedo	http://en.wikipedia.org/wiki/University_of_Oviedo	ES	ES	1574
+540	57	1	University of Regensburg	http://en.wikipedia.org/wiki/University_of_Regensburg	DE	DE	1962
+541	57	1	University of Turku	http://en.wikipedia.org/wiki/University_of_Turku	FI	WR	1920
+542	57	1	Xi'an Jiaotong University	http://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University	CN	ZH	1896
+543	56	1	Devi Ahilya Vishwavidyalaya	http://en.wikipedia.org/wiki/Devi_Ahilya_Vishwavidyalaya	IN	HI	1964
+544	56	1	International Medical University	http://en.wikipedia.org/wiki/International_Medical_University	MY	MS	1992
+545	56	1	Kyungpook National University	http://en.wikipedia.org/wiki/Kyungpook_National_University	KR	KO	1907
+546	56	1	Mines ParisTech	http://en.wikipedia.org/wiki/Mines_ParisTech	FR	FR	1783
+547	56	2	Suranaree University of Technology	http://en.wikipedia.org/wiki/Suranaree_University_of_Technology	TH	TH	1990
+548	56	1	Uludağ University	http://en.wikipedia.org/wiki/Uluda%C4%9F_University	TR	TR	1975
+549	56	1	University of Alcalá	http://en.wikipedia.org/wiki/University_of_Alcal%C3%A1	ES	ES	1499
+550	56	1	University of Science and Technology of China	http://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China	CN	ZH	1958
+551	56	1	University of Stuttgart	http://en.wikipedia.org/wiki/University_of_Stuttgart	DE	DE	1829
+552	55	1	DIT University	http://en.wikipedia.org/wiki/DIT_University	IN	HI	1998
+553	55	1	Dong-a University	http://en.wikipedia.org/wiki/Dong-a_University	KR	KO	1946
+554	55	1	Glasgow Caledonian University	http://en.wikipedia.org/wiki/Glasgow_Caledonian_University	UK	EN	1875
+555	55	1	Harbin Institute of Technology	http://en.wikipedia.org/wiki/Harbin_Institute_of_Technology	CN	ZH	1920
+556	55	1	Harokopio University	http://en.wikipedia.org/wiki/Harokopio_University	GR	EL	1990
+557	55	1	University College Lillebaelt	http://en.wikipedia.org/wiki/University_College_Lillebaelt	DK	DA	2008
+558	54	1	Florida International University	http://en.wikipedia.org/wiki/Florida_International_University	US	EN	1965
+559	54	1	Galatasaray University	http://en.wikipedia.org/wiki/Galatasaray_University	TR	TR	1481
+560	54	1	Indian Institute of Science	http://en.wikipedia.org/wiki/Indian_Institute_of_Science	IN	HI	1909
+561	54	1	Komazawa University	http://en.wikipedia.org/wiki/Komazawa_University	JP	JA	1592
+562	54	1	Korea National Defense University	http://en.wikipedia.org/wiki/Korea_National_Defense_University	KR	KO	1955
+563	54	1	Odessa University	http://en.wikipedia.org/wiki/Odessa_University	UA	WR	1865
+564	54	1	Sciences Po	http://en.wikipedia.org/wiki/Sciences_Po	FR	FR	1872
+565	53	1	Chungnam National University	http://en.wikipedia.org/wiki/Chungnam_National_University	KR	KO	1952
+566	53	1	Fluminense Federal University	http://en.wikipedia.org/wiki/Fluminense_Federal_University	BR	PT	1912
+567	53	1	Istanbul Commerce University	http://en.wikipedia.org/wiki/Istanbul_Commerce_University	TR	TR	2001
+568	53	1	Jinan University	http://en.wikipedia.org/wiki/Jinan_University	CN	ZH	1906
+569	53	1	Maharaja Sayajirao University of Baroda	http://en.wikipedia.org/wiki/Maharaja_Sayajirao_University_of_Baroda	IN	HI	1881
+570	53	1	National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)	http://en.wikipedia.org/wiki/National_Research_Nuclear_University_MEPhI_%28Moscow_Engineering_Physics_Institute%29	RU	RU	1942
+571	53	1	Technische Universität Darmstadt	http://en.wikipedia.org/wiki/Technische_Universit%C3%A4t_Darmstadt	DE	DE	1877
+572	53	2	University of Havana	http://en.wikipedia.org/wiki/University_of_Havana	CU	ES	1728
+573	52	1	Birla Institute of Technology, Mesra	http://en.wikipedia.org/wiki/Birla_Institute_of_Technology%2C_Mesra	IN	HI	1955
+574	52	1	Federal University of Paraná	http://en.wikipedia.org/wiki/Federal_University_of_Paran%C3%A1	BR	PT	1912
+575	52	2	Fordham University	http://en.wikipedia.org/wiki/Fordham_University	US	EN	1841
+576	52	1	Korea Maritime and Ocean University	http://en.wikipedia.org/wiki/Korea_Maritime_and_Ocean_University	KR	KO	1945
+577	52	1	Liverpool John Moores University	http://en.wikipedia.org/wiki/Liverpool_John_Moores_University	UK	EN	1823
+578	52	1	North Carolina State University	http://en.wikipedia.org/wiki/North_Carolina_State_University	US	EN	1887
+579	52	1	Okayama University	http://en.wikipedia.org/wiki/Okayama_University	JP	JA	1870
+580	52	1	Thang Long University	http://en.wikipedia.org/wiki/Thang_Long_University	VN	VI	1988
+581	52	1	Tun Hussein Onn University of Malaysia	http://en.wikipedia.org/wiki/Tun_Hussein_Onn_University_of_Malaysia	MY	MS	1993
+582	51	1	Beykent University	http://en.wikipedia.org/wiki/Beykent_University	TR	TR	1997
+583	51	1	Lebanese University	http://en.wikipedia.org/wiki/Lebanese_University	LB	AR	1951
+584	51	1	Ranchi University	http://en.wikipedia.org/wiki/Ranchi_University	IN	HI	1960
+585	51	1	Universidade Nova de Lisboa	http://en.wikipedia.org/wiki/Universidade_Nova_de_Lisboa	PT	PT	1973
+586	51	1	University of Konstanz	http://en.wikipedia.org/wiki/University_of_Konstanz	DE	DE	1966
+587	51	1	University of Murcia	http://en.wikipedia.org/wiki/University_of_Murcia	ES	ES	1914
+588	51	1	University of Opole	http://en.wikipedia.org/wiki/University_of_Opole	PL	PL	1994
+589	51	3	University of Warwick	http://en.wikipedia.org/wiki/University_of_Warwick	UK	EN	1965
+590	50	1	Assam University	http://en.wikipedia.org/wiki/Assam_University	IN	HI	1994
+591	50	1	Bielefeld University	http://en.wikipedia.org/wiki/Bielefeld_University	DE	DE	1969
+592	50	1	Osaka City University	http://en.wikipedia.org/wiki/Osaka_City_University	JP	JA	1880
+593	50	1	UCSI University	http://en.wikipedia.org/wiki/UCSI_University	MY	MS	1986
+594	50	1	Umm al-Qura University	http://en.wikipedia.org/wiki/Umm_al-Qura_University	SA	AR	1981
+595	50	1	University of Modena and Reggio Emilia	http://en.wikipedia.org/wiki/University_of_Modena_and_Reggio_Emilia	IT	IT	1175
+596	50	1	University of Peloponnese	http://en.wikipedia.org/wiki/University_of_Peloponnese	GR	EL	2002
+597	50	4	Vanderbilt University	http://en.wikipedia.org/wiki/Vanderbilt_University	US	EN	1873
+598	50	1	Yeungnam University	http://en.wikipedia.org/wiki/Yeungnam_University	KR	KO	1967
+599	49	2	Australian National University	http://en.wikipedia.org/wiki/Australian_National_University	AU	EN	1946
+600	49	1	Igor Sikorsky Kyiv Polytechnic Institute	http://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute	UA	UK	1898
+601	49	1	Kookmin University	http://en.wikipedia.org/wiki/Kookmin_University	KR	KO	1946
+602	49	1	Kumaun University	http://en.wikipedia.org/wiki/Kumaun_University	IN	HI	1973
+603	49	1	Manisa Celal Bayar University	http://en.wikipedia.org/wiki/Manisa_Celal_Bayar_University	TR	TR	1992
+604	49	1	University of Caen Normandy	http://en.wikipedia.org/wiki/University_of_Caen_Normandy	FR	FR	1432
+605	49	1	University of Selangor	http://en.wikipedia.org/wiki/University_of_Selangor	MY	MS	1999
+606	48	1	Deen Dayal Upadhyay Gorakhpur University	http://en.wikipedia.org/wiki/Deen_Dayal_Upadhyay_Gorakhpur_University	IN	HI	1957
+607	48	1	Plekhanov Russian University of Economics	http://en.wikipedia.org/wiki/Plekhanov_Russian_University_of_Economics	RU	RU	1907
+608	48	1	Sejong University	http://en.wikipedia.org/wiki/Sejong_University	KR	KO	1940
+609	48	2	Syracuse University	http://en.wikipedia.org/wiki/Syracuse_University	US	EN	1870
+610	48	1	University of Duisburg-Essen	http://en.wikipedia.org/wiki/University_of_Duisburg-Essen	DE	DE	1654
+611	48	1	University of Missouri	http://en.wikipedia.org/wiki/University_of_Missouri	US	EN	1839
+612	47	1	Adnan Menderes University	http://en.wikipedia.org/wiki/Adnan_Menderes_University	TR	TR	1992
+613	47	1	Kanazawa University	http://en.wikipedia.org/wiki/Kanazawa_University	JP	JA	1949
+614	47	2	Kim Il-sung University	http://en.wikipedia.org/wiki/Kim_Il-sung_University	KP	KO	1946
+615	47	1	King Juan Carlos University	http://en.wikipedia.org/wiki/King_Juan_Carlos_University	ES	ES	1996
+616	47	1	Paris Dauphine University	http://en.wikipedia.org/wiki/Paris_Dauphine_University	FR	FR	1968
+617	47	2	University of Oregon	http://en.wikipedia.org/wiki/University_of_Oregon	US	EN	1876
+618	47	1	University of Trier	http://en.wikipedia.org/wiki/University_of_Trier	DE	DE	1473
+619	47	2	University of Utah	http://en.wikipedia.org/wiki/University_of_Utah	US	EN	1850
+620	47	1	Vardhaman Mahaveer Open University	http://en.wikipedia.org/wiki/Vardhaman_Mahaveer_Open_University	IN	HI	1987
+621	46	1	Federal University of Paraíba	http://en.wikipedia.org/wiki/Federal_University_of_Para%C3%ADba	BR	PT	1934
+622	46	1	Huazhong University of Science and Technology	http://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology	CN	ZH	1953
+623	46	1	Janardan Rai Nagar Rajasthan Vidyapeeth University	http://en.wikipedia.org/wiki/Janardan_Rai_Nagar_Rajasthan_Vidyapeeth_University	IN	HI	1937
+624	46	1	Kraków University of Economics	http://en.wikipedia.org/wiki/Krak%C3%B3w_University_of_Economics	PL	PL	1925
+625	46	1	Padang State University	http://en.wikipedia.org/wiki/Padang_State_University	ID	ID	1954
+626	46	1	Technical University of Madrid	http://en.wikipedia.org/wiki/Technical_University_of_Madrid	ES	ES	1971
+627	46	1	Tehran University of Medical Sciences	http://en.wikipedia.org/wiki/Tehran_University_of_Medical_Sciences	IR	FA	1934
+628	45	1	Andrássy University Budapest	http://en.wikipedia.org/wiki/Andr%C3%A1ssy_University_Budapest	HU	HU	2002
+629	45	2	Arizona State University	http://en.wikipedia.org/wiki/Arizona_State_University	US	EN	1885
+630	45	1	INTI International University	http://en.wikipedia.org/wiki/INTI_International_University	MY	MS	1986
+631	45	1	Ochanomizu University	http://en.wikipedia.org/wiki/Ochanomizu_University	JP	JA	1875
+632	45	1	Tata Institute of Fundamental Research	http://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research	IN	HI	1945
+633	45	1	TOBB University of Economics and Technology	http://en.wikipedia.org/wiki/TOBB_University_of_Economics_and_Technology	TR	TR	2003
+634	45	3	United Nations University	http://en.wikipedia.org/wiki/United_Nations_University	JP	EN	1973
+635	45	1	University of Macedonia	http://en.wikipedia.org/wiki/University_of_Macedonia	GR	EL	1957
+636	44	1	Iran University of Science and Technology	http://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology	IR	FA	1929
+637	44	1	Ryukoku University	http://en.wikipedia.org/wiki/Ryukoku_University	JP	JA	1639
+638	44	1	University of Kota	http://en.wikipedia.org/wiki/University_of_Kota	IN	HI	2003
+639	44	1	University of Paris III: Sorbonne Nouvelle	http://en.wikipedia.org/wiki/University_of_Paris_III%3A_Sorbonne_Nouvelle	FR	FR	1971
+640	44	1	University of the Basque Country	http://en.wikipedia.org/wiki/University_of_the_Basque_Country	ES	ES	1980
+641	43	1	Central University of Rajasthan	http://en.wikipedia.org/wiki/Central_University_of_Rajasthan	IN	HI	2009
+642	43	1	École Polytechnique Fédérale de Lausanne	http://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne	CH	DE	1969
+643	43	1	Takushoku University	http://en.wikipedia.org/wiki/Takushoku_University	JP	JA	1900
+644	43	1	Universiti Teknologi Petronas	http://en.wikipedia.org/wiki/Universiti_Teknologi_Petronas	MY	MS	1997
+645	43	1	University College Zealand	http://en.wikipedia.org/wiki/University_College_Zealand	DK	DA	2007
+646	43	2	University of Bordeaux	http://en.wikipedia.org/wiki/University_of_Bordeaux	FR	FR	2007
+647	43	1	University of Mannheim	http://en.wikipedia.org/wiki/University_of_Mannheim	DE	DE	1763
+648	43	1	University of Santiago de Compostela	http://en.wikipedia.org/wiki/University_of_Santiago_de_Compostela	ES	ES	1495
+649	43	1	University of Santo Tomas	http://en.wikipedia.org/wiki/University_of_Santo_Tomas	PH	EN	1611
+650	43	1	University of Tabriz	http://en.wikipedia.org/wiki/University_of_Tabriz	IR	FA	1946
+651	42	1	Chosun University	http://en.wikipedia.org/wiki/Chosun_University	KR	KO	1946
+652	42	1	City, University of London	http://en.wikipedia.org/wiki/City%2C_University_of_London	UK	EN	1966
+653	42	1	Florida A&M University	http://en.wikipedia.org/wiki/Florida_A%26M_University	US	EN	1887
+654	42	1	Mae Fah Luang University	http://en.wikipedia.org/wiki/Mae_Fah_Luang_University	TH	TH	1998
+655	42	1	Meiji Gakuin University	http://en.wikipedia.org/wiki/Meiji_Gakuin_University	JP	JA	1863
+656	42	1	Rajasthan Technical University	http://en.wikipedia.org/wiki/Rajasthan_Technical_University	IN	HI	2006
+657	42	1	Tianjin University	http://en.wikipedia.org/wiki/Tianjin_University	CN	ZH	1895
+658	42	1	Tunku Abdul Rahman University College	http://en.wikipedia.org/wiki/Tunku_Abdul_Rahman_University_College	MY	MS	1969
+659	42	1	University of Cagliari	http://en.wikipedia.org/wiki/University_of_Cagliari	IT	IT	1606
+660	42	1	University of Dublin	http://en.wikipedia.org/wiki/University_of_Dublin	IE	EN	1592
+661	42	1	University of Düsseldorf	http://en.wikipedia.org/wiki/University_of_D%C3%BCsseldorf	DE	DE	1965
+662	42	2	University of Illinois at Chicago	http://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago	US	EN	1858
+663	42	1	Ural State University	http://en.wikipedia.org/wiki/Ural_State_University	RU	RU	1920
+664	41	1	Chonbuk National University	http://en.wikipedia.org/wiki/Chonbuk_National_University	KR	KO	1947
+665	41	2	École normale supérieure Paris-Saclay	http://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay	FR	FR	1892
+666	41	1	ISIPCA	http://en.wikipedia.org/wiki/ISIPCA	FR	FR	1970
+667	41	1	Tata Institute of Social Sciences	http://en.wikipedia.org/wiki/Tata_Institute_of_Social_Sciences	IN	HI	1936
+668	41	1	Ubon Ratchathani University	http://en.wikipedia.org/wiki/Ubon_Ratchathani_University	TH	TH	1990
+669	41	1	Universiti Komputer Indonesia	http://en.wikipedia.org/wiki/Universiti_Komputer_Indonesia	ID	ID	2000
+670	41	1	University of Georgia	http://en.wikipedia.org/wiki/University_of_Georgia	US	EN	1785
+671	41	1	University of Navarra	http://en.wikipedia.org/wiki/University_of_Navarra	ES	ES	1952
+672	41	1	University of Paris-Sud	http://en.wikipedia.org/wiki/University_of_Paris-Sud	FR	FR	1971
+673	41	1	University of Sassari	http://en.wikipedia.org/wiki/University_of_Sassari	IT	IT	1562
+674	40	1	Çankaya University	http://en.wikipedia.org/wiki/%C3%87ankaya_University	TR	TR	1997
+675	40	1	Cyprus University of Technology	http://en.wikipedia.org/wiki/Cyprus_University_of_Technology	CY	EL	2004
+676	40	1	Diponegoro University	http://en.wikipedia.org/wiki/Diponegoro_University	ID	WR	1957
+677	40	1	Perm State University	http://en.wikipedia.org/wiki/Perm_State_University	RU	RU	1916
+678	40	1	University of Dunaújváros	http://en.wikipedia.org/wiki/University_of_Duna%C3%BAjv%C3%A1ros	HU	HU	2016
+679	40	1	University of Ferrara	http://en.wikipedia.org/wiki/University_of_Ferrara	IT	IT	1391
+680	40	1	University of Greenland	http://en.wikipedia.org/wiki/University_of_Greenland	GL	DA	1987
+681	40	1	Vikram University	http://en.wikipedia.org/wiki/Vikram_University	IN	HI	1957
+682	39	1	Erciyes University	http://en.wikipedia.org/wiki/Erciyes_University	TR	TR	1978
+683	39	1	Huế University	http://en.wikipedia.org/wiki/Hu%E1%BA%BF_University	VN	VI	1957
+684	39	1	Jan Kochanowski University	http://en.wikipedia.org/wiki/Jan_Kochanowski_University	PL	PL	1969
+685	39	1	Mansoura University	http://en.wikipedia.org/wiki/Mansoura_University	EG	AR	1972
+686	39	1	Saitama University	http://en.wikipedia.org/wiki/Saitama_University	JP	JA	1949
+687	39	1	Sriwijaya University	http://en.wikipedia.org/wiki/Sriwijaya_University	ID	ID	1960
+688	39	2	University of Fribourg	http://en.wikipedia.org/wiki/University_of_Fribourg	CH	DE	1582
+689	39	1	University of Guadalajara	http://en.wikipedia.org/wiki/University_of_Guadalajara	MX	ES	1792
+690	39	1	University of Kassel	http://en.wikipedia.org/wiki/University_of_Kassel	DE	DE	1970
+691	39	1	University of Latvia	http://en.wikipedia.org/wiki/University_of_Latvia	LV	WR	1919
+692	39	1	University of Tromsø	http://en.wikipedia.org/wiki/University_of_Troms%C3%B8	NO	WR	1968
+693	38	1	Kathmandu University	http://en.wikipedia.org/wiki/Kathmandu_University	NP	NE	1991
+694	38	1	Northwestern Polytechnical University	http://en.wikipedia.org/wiki/Northwestern_Polytechnical_University	CN	ZH	1938
+695	38	1	Poznań University of Economics and Business	http://en.wikipedia.org/wiki/Pozna%C5%84_University_of_Economics_and_Business	PL	PL	1926
+696	38	1	Teikyo University	http://en.wikipedia.org/wiki/Teikyo_University	JP	JA	1931
+697	38	1	Universiti Tenaga Nasional	http://en.wikipedia.org/wiki/Universiti_Tenaga_Nasional	MY	MS	1999
+698	38	1	University of Bremen	http://en.wikipedia.org/wiki/University_of_Bremen	DE	DE	1971
+699	38	1	University of El Salvador	http://en.wikipedia.org/wiki/University_of_El_Salvador	SV	ES	1841
+700	38	1	University of Seoul	http://en.wikipedia.org/wiki/University_of_Seoul	KR	KO	1918
+701	38	1	University of Yangon	http://en.wikipedia.org/wiki/University_of_Yangon	MM	WR	1878
+702	37	1	Çukurova University	http://en.wikipedia.org/wiki/%C3%87ukurova_University	TR	TR	1973
+703	37	1	Purbanchal University	http://en.wikipedia.org/wiki/Purbanchal_University	NP	WR	1993
+704	37	1	Tokyo Gakugei University	http://en.wikipedia.org/wiki/Tokyo_Gakugei_University	JP	JA	1873
+705	37	3	University of Kansas	http://en.wikipedia.org/wiki/University_of_Kansas	US	EN	1865
+706	37	1	University of South Florida	http://en.wikipedia.org/wiki/University_of_South_Florida	US	EN	1956
+707	36	1	Braunschweig University of Technology	http://en.wikipedia.org/wiki/Braunschweig_University_of_Technology	DE	DE	1745
+708	36	1	Durham University	http://en.wikipedia.org/wiki/Durham_University	UK	EN	1832
+709	36	1	Federal University of Uberlândia	http://en.wikipedia.org/wiki/Federal_University_of_Uberl%C3%A2ndia	BR	PT	1969
+710	36	1	Jönköping University	http://en.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping_University	SE	SE	1977
+711	36	1	Lumbini Buddhist University	http://en.wikipedia.org/wiki/Lumbini_Buddhist_University	NP	NP	2006
+712	36	1	National University of Kyiv-Mohyla Academy	http://en.wikipedia.org/wiki/National_University_of_Kyiv-Mohyla_Academy	UA	WR	1615
+713	36	1	Pamukkale University	http://en.wikipedia.org/wiki/Pamukkale_University	TR	TR	1992
+714	36	1	Technical University of Cluj-Napoca	http://en.wikipedia.org/wiki/Technical_University_of_Cluj-Napoca	RO	WR	1920
+715	36	2	University of Wollongong	http://en.wikipedia.org/wiki/University_of_Wollongong	UK	EN	1951
+716	35	1	Kyonggi University	http://en.wikipedia.org/wiki/Kyonggi_University	KR	KO	1947
+717	35	1	Kyoto Sangyo University	http://en.wikipedia.org/wiki/Kyoto_Sangyo_University	JP	JA	1965
+718	35	1	Osmania University	http://en.wikipedia.org/wiki/Osmania_University	IN	HI	1918
+719	35	1	University of Jordan	http://en.wikipedia.org/wiki/University_of_Jordan	JO	AR	1962
+720	35	1	University of Rzeszów	http://en.wikipedia.org/wiki/University_of_Rzesz%C3%B3w	PL	PL	2001
+721	35	1	University of Salzburg	http://en.wikipedia.org/wiki/University_of_Salzburg	AT	DE	1622
+722	34	1	Hanoi Medical University	http://en.wikipedia.org/wiki/Hanoi_Medical_University	VN	VI	1902
+723	34	1	Henan University	http://en.wikipedia.org/wiki/Henan_University	CN	ZH	1912
+724	34	1	Kumamoto University	http://en.wikipedia.org/wiki/Kumamoto_University	JP	JA	1925
+725	34	1	National Institute of Technology, Silchar	http://en.wikipedia.org/wiki/National_Institute_of_Technology%2C_Silchar	IN	HI	1967
+726	34	1	University of Flensburg	http://en.wikipedia.org/wiki/University_of_Flensburg	DE	DE	1994
+727	34	1	University of Ottawa	http://en.wikipedia.org/wiki/University_of_Ottawa	CA	EN	1848
+728	33	1	Beijing Jiaotong University	http://en.wikipedia.org/wiki/Beijing_Jiaotong_University	CN	ZH	1896
+729	33	1	Ca' Foscari University of Venice	http://en.wikipedia.org/wiki/Ca%27_Foscari_University_of_Venice	IT	IT	1868
+730	33	1	ESSEC Business School	http://en.wikipedia.org/wiki/ESSEC_Business_School	FR	FR	1907
+731	33	1	Rani Durgavati Vishwavidyalaya	http://en.wikipedia.org/wiki/Rani_Durgavati_Vishwavidyalaya	IN	HI	1956
+732	33	1	Rattana Bundit University	http://en.wikipedia.org/wiki/Rattana_Bundit_University	TH	TH	1997
+733	33	1	Stellenbosch University	http://en.wikipedia.org/wiki/Stellenbosch_University	ZA	WR	1866
+734	33	1	Universiti Malaysia Kelantan	http://en.wikipedia.org/wiki/Universiti_Malaysia_Kelantan	MY	MS	2007
+735	33	1	University of Aleppo	http://en.wikipedia.org/wiki/University_of_Aleppo	SY	AR	1958
+736	33	1	University of Augsburg	http://en.wikipedia.org/wiki/University_of_Augsburg	DE	DE	1970
+737	33	1	University of Concepción	http://en.wikipedia.org/wiki/University_of_Concepci%C3%B3n	CL	ES	1919
+738	33	1	University of Lorraine	http://en.wikipedia.org/wiki/University_of_Lorraine	FR	FR	2012
+739	33	1	University of Zielona Góra	http://en.wikipedia.org/wiki/University_of_Zielona_G%C3%B3ra	PL	PL	2001
+740	32	1	Lanzhou University	http://en.wikipedia.org/wiki/Lanzhou_University	CN	ZH	1909
+741	32	1	Limkokwing University of Creative Technology	http://en.wikipedia.org/wiki/Limkokwing_University_of_Creative_Technology	MY	MS	1991
+742	32	1	Petrozavodsk State University	http://en.wikipedia.org/wiki/Petrozavodsk_State_University	RU	RU	1940
+743	32	1	Sri Venkateswara University	http://en.wikipedia.org/wiki/Sri_Venkateswara_University	IN	HI	1954
+744	32	1	The Institute of Technology at Linköping University	http://en.wikipedia.org/wiki/The_Institute_of_Technology_at_Link%C3%B6ping_University	SE	SV	1970
+745	32	1	Universidad de San Carlos de Guatemala	http://en.wikipedia.org/wiki/Universidad_de_San_Carlos_de_Guatemala	GT	ES	1676
+746	32	1	University of Phayao	http://en.wikipedia.org/wiki/University_of_Phayao	TH	TH	2010
+747	32	2	University of Queensland	http://en.wikipedia.org/wiki/University_of_Queensland	AU	EN	1909
+748	31	1	California State University	http://en.wikipedia.org/wiki/California_State_University	US	EN	1857
+749	31	1	Gdańsk Medical University	http://en.wikipedia.org/wiki/Gda%C5%84sk_Medical_University	PL	PL	1945
+750	31	1	Kırıkkale University	http://en.wikipedia.org/wiki/K%C4%B1r%C4%B1kkale_University	TR	TR	1992
+751	31	1	Lehigh University	http://en.wikipedia.org/wiki/Lehigh_University	US	EN	1865
+752	31	1	Niigata University	http://en.wikipedia.org/wiki/Niigata_University	JP	JA	1870
+753	31	1	TU Wien	http://en.wikipedia.org/wiki/TU_Wien	AT	DE	1815
+754	31	1	Virginia Tech	http://en.wikipedia.org/wiki/Virginia_Tech	US	EN	1872
+755	31	1	Yarmouk University	http://en.wikipedia.org/wiki/Yarmouk_University	JO	AR	1976
+756	30	1	Bangkokthonburi University	http://en.wikipedia.org/wiki/Bangkokthonburi_University	TH	TH	2002
+757	30	1	Helwan University	http://en.wikipedia.org/wiki/Helwan_University	EG	AR	1975
+758	30	1	Kokushikan University	http://en.wikipedia.org/wiki/Kokushikan_University	JP	JA	1917
+759	30	1	Loyola University Chicago	http://en.wikipedia.org/wiki/Loyola_University_Chicago	US	EN	1870
+760	30	1	Presidency University, Kolkata	http://en.wikipedia.org/wiki/Presidency_University%2C_Kolkata	IN	HI	1817
+761	30	1	Selye János University	http://en.wikipedia.org/wiki/Selye_J%C3%A1nos_University	SK	WR	2004
+762	30	1	Technical University of Lisbon	http://en.wikipedia.org/wiki/Technical_University_of_Lisbon	PT	PT	1930
+763	30	1	Universiti Teknikal Malaysia Melaka	http://en.wikipedia.org/wiki/Universiti_Teknikal_Malaysia_Melaka	MY	MS	2000
+764	29	1	Bahçeşehir University	http://en.wikipedia.org/wiki/Bah%C3%A7e%C5%9Fehir_University	TR	TR	1998
+765	29	1	Doon University	http://en.wikipedia.org/wiki/Doon_University	IN	HI	2005
+766	29	1	Kanagawa University	http://en.wikipedia.org/wiki/Kanagawa_University	JP	JA	1928
+767	29	1	National Taiwan University	http://en.wikipedia.org/wiki/National_Taiwan_University	TW	ZH	1928
+768	29	1	Qatar University	http://en.wikipedia.org/wiki/Qatar_University	QA	AR	1973
+769	29	1	Saratov State University	http://en.wikipedia.org/wiki/Saratov_State_University	RU	RU	1909
+770	28	1	Graphic Era University	http://en.wikipedia.org/wiki/Graphic_Era_University	IN	HI	1993
+771	28	2	Indiana University Bloomington	http://en.wikipedia.org/wiki/Indiana_University_Bloomington	US	EN	1820
+772	28	1	Okan University	http://en.wikipedia.org/wiki/Okan_University	TR	TR	1999
+773	28	1	Sirindhorn International Institute of Technology	http://en.wikipedia.org/wiki/Sirindhorn_International_Institute_of_Technology	TH	TH	1992
+774	28	1	South China University of Technology	http://en.wikipedia.org/wiki/South_China_University_of_Technology	CN	ZH	1952
+775	28	1	Tamagawa University	http://en.wikipedia.org/wiki/Tamagawa_University	JP	JA	1929
+776	28	1	Université de Sherbrooke	http://en.wikipedia.org/wiki/Universit%C3%A9_de_Sherbrooke	CA	EN	1954
+777	28	1	University of North Sumatra	http://en.wikipedia.org/wiki/University_of_North_Sumatra	ID	WR	1952
+778	28	1	University of Potsdam	http://en.wikipedia.org/wiki/University_of_Potsdam	DE	DE	1991
+779	28	1	Ural State Technical University	http://en.wikipedia.org/wiki/Ural_State_Technical_University	RU	RU	1920
+780	27	1	Brunel University London	http://en.wikipedia.org/wiki/Brunel_University_London	UK	EN	1966
+781	27	1	Federal University of Ceará	http://en.wikipedia.org/wiki/Federal_University_of_Cear%C3%A1	BR	PT	1954
+782	27	1	Illinois Institute of Technology	http://en.wikipedia.org/wiki/Illinois_Institute_of_Technology	US	EN	1890
+783	27	1	Tallinn University of Technology	http://en.wikipedia.org/wiki/Tallinn_University_of_Technology	EE	ET	1918
+784	27	1	Tokyo Metropolitan University	http://en.wikipedia.org/wiki/Tokyo_Metropolitan_University	JP	JA	2005
+785	27	1	University of Central Florida	http://en.wikipedia.org/wiki/University_of_Central_Florida	US	EN	1963
+786	27	1	University of Messina	http://en.wikipedia.org/wiki/University_of_Messina	IT	IT	1548
+787	27	1	University of Rennes 2 – Upper Brittany	http://en.wikipedia.org/wiki/University_of_Rennes_2_%E2%80%93_Upper_Brittany	FR	FR	1969
+788	27	1	Visva-Bharati University	http://en.wikipedia.org/wiki/Visva-Bharati_University	IN	HI	1921
+789	27	1	Zagazig University	http://en.wikipedia.org/wiki/Zagazig_University	EG	AR	1974
+790	26	1	Bu-Ali Sina University	http://en.wikipedia.org/wiki/Bu-Ali_Sina_University	IR	FA	1973
+791	26	1	École centrale de Nantes	http://en.wikipedia.org/wiki/%C3%89cole_centrale_de_Nantes	FR	FR	1919
+792	26	1	École normale supérieure de Lyon	http://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_de_Lyon	FR	FR	1880
+793	26	1	Federal University of ABC	http://en.wikipedia.org/wiki/Federal_University_of_ABC	BR	PT	2005
+794	26	1	Ho Chi Minh City University of Technology	http://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Technology	VN	VI	1957
+795	26	1	Indian Institute of Technology Bombay	http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bombay	IN	HI	1958
+796	26	1	Koç University	http://en.wikipedia.org/wiki/Ko%C3%A7_University	TR	TR	1993
+797	26	1	Twintech International University College of Technology	http://en.wikipedia.org/wiki/Twintech_International_University_College_of_Technology	MY	MS	1994
+798	26	1	University of Bari	http://en.wikipedia.org/wiki/University_of_Bari	IT	IT	1925
+799	26	2	University of California, Irvine	http://en.wikipedia.org/wiki/University_of_California%2C_Irvine	US	EN	1965
+800	25	1	Aix-Marseille University	http://en.wikipedia.org/wiki/Aix-Marseille_University	FR	FR	1409
+801	25	1	Assiut University	http://en.wikipedia.org/wiki/Assiut_University	EG	AR	1957
+802	25	2	Emory University	http://en.wikipedia.org/wiki/Emory_University	US	EN	1836
+803	25	1	Federal University of São Paulo	http://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Paulo	BR	PT	1933
+804	25	1	Guru Gobind Singh Indraprastha University	http://en.wikipedia.org/wiki/Guru_Gobind_Singh_Indraprastha_University	IN	HI	1998
+805	25	1	Heriot-Watt University	http://en.wikipedia.org/wiki/Heriot-Watt_University	UK	EN	1821
+806	25	1	Keimyung University	http://en.wikipedia.org/wiki/Keimyung_University	KR	KO	1899
+807	25	1	Kharazmi University	http://en.wikipedia.org/wiki/Kharazmi_University	IR	FA	1919
+808	25	1	Kocaeli University	http://en.wikipedia.org/wiki/Kocaeli_University	TR	TR	1976
+809	25	1	Shinshu University	http://en.wikipedia.org/wiki/Shinshu_University	JP	JA	1949
+810	25	1	University of Costa Rica	http://en.wikipedia.org/wiki/University_of_Costa_Rica	CR	ES	1940
+811	24	1	Chukyo University	http://en.wikipedia.org/wiki/Chukyo_University	JP	JA	1954
+812	24	1	Işık University	http://en.wikipedia.org/wiki/I%C5%9F%C4%B1k_University	TR	TR	1996
+813	24	1	Miguel de Cervantes European University	http://en.wikipedia.org/wiki/Miguel_de_Cervantes_European_University	ES	ES	2002
+814	24	1	Sangmyung University	http://en.wikipedia.org/wiki/Sangmyung_University	KR	KO	1937
+815	24	1	Tbilisi State University	http://en.wikipedia.org/wiki/Tbilisi_State_University	GE	WR	1918
+816	24	1	Universiti Malaysia Pahang	http://en.wikipedia.org/wiki/Universiti_Malaysia_Pahang	MY	MS	2002
+817	24	1	University of Hyderabad	http://en.wikipedia.org/wiki/University_of_Hyderabad	IN	HI	1974
+818	24	2	University of New South Wales	http://en.wikipedia.org/wiki/University_of_New_South_Wales	UK	EN	1949
+819	24	1	University of Western Macedonia	http://en.wikipedia.org/wiki/University_of_Western_Macedonia	GR	EL	2004
+820	23	1	Alzahra University	http://en.wikipedia.org/wiki/Alzahra_University	IR	FA	1964
+821	23	1	İzmir University of Economics	http://en.wikipedia.org/wiki/%C4%B0zmir_University_of_Economics	TR	TR	2001
+822	23	1	Kyungsung University	http://en.wikipedia.org/wiki/Kyungsung_University	KR	KO	1955
+823	23	1	Pandit Ravishankar Shukla University	http://en.wikipedia.org/wiki/Pandit_Ravishankar_Shukla_University	IN	HI	1964
+824	23	1	Thuyloi University	http://en.wikipedia.org/wiki/Thuyloi_University	VN	VI	1959
+825	23	1	University of the Ryukyus	http://en.wikipedia.org/wiki/University_of_the_Ryukyus	JP	JA	1950
+826	23	1	University of Trieste	http://en.wikipedia.org/wiki/University_of_Trieste	IT	IT	1924
+827	22	1	Atal Bihari Vajpayee Hindi Vishwavidyalaya	http://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Hindi_Vishwavidyalaya	IN	HI	2011
+828	22	1	Dalian University of Technology	http://en.wikipedia.org/wiki/Dalian_University_of_Technology	CN	ZH	1949
+829	22	1	Lumière University Lyon 2	http://en.wikipedia.org/wiki/Lumi%C3%A8re_University_Lyon_2	FR	FR	1835
+830	22	1	Ondokuz Mayıs University	http://en.wikipedia.org/wiki/Ondokuz_May%C4%B1s_University	TR	TR	1975
+831	22	1	Shizuoka University	http://en.wikipedia.org/wiki/Shizuoka_University	JP	JA	1949
+832	22	1	St. Petersburg State Forestry University	http://en.wikipedia.org/wiki/St._Petersburg_State_Forestry_University	RU	RU	1803
+833	22	1	Universidad Autónoma de Nuevo León	http://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n	MX	ES	1933
+834	22	1	University of Parma	http://en.wikipedia.org/wiki/University_of_Parma	IT	IT	1117
+835	21	1	Auburn University	http://en.wikipedia.org/wiki/Auburn_University	US	EN	1856
+836	21	1	George Mason University	http://en.wikipedia.org/wiki/George_Mason_University	US	EN	1957
+837	21	1	Kyungnam University	http://en.wikipedia.org/wiki/Kyungnam_University	KR	KO	1946
+838	21	1	Rajiv Gandhi Proudyogiki Vishwavidyalaya	http://en.wikipedia.org/wiki/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya	IN	HI	1998
+839	21	1	Tomsk Polytechnic University	http://en.wikipedia.org/wiki/Tomsk_Polytechnic_University	RU	RU	1896
+840	21	1	University of Adelaide	http://en.wikipedia.org/wiki/University_of_Adelaide	AU	EN	1874
+841	21	1	University of Aveiro	http://en.wikipedia.org/wiki/University_of_Aveiro	PT	PT	1973
+842	21	1	University of Brunei Darussalam	http://en.wikipedia.org/wiki/University_of_Brunei_Darussalam	BN	MS	1985
+843	20	1	Bashkir State University	http://en.wikipedia.org/wiki/Bashkir_State_University	RU	RU	1909
+844	20	1	Indian Institute of Space Science and Technology	http://en.wikipedia.org/wiki/Indian_Institute_of_Space_Science_and_Technology	IN	HI	2007
+845	20	1	Jackson State University	http://en.wikipedia.org/wiki/Jackson_State_University	US	EN	1877
+846	20	1	Kangwon National University	http://en.wikipedia.org/wiki/Kangwon_National_University	KR	KO	1947
+847	20	1	Krirk University	http://en.wikipedia.org/wiki/Krirk_University	TH	TH	1995
+848	20	1	National Technical University of Athens	http://en.wikipedia.org/wiki/National_Technical_University_of_Athens	GR	EL	1836
+849	20	1	Poznan University of Medical Sciences	http://en.wikipedia.org/wiki/Poznan_University_of_Medical_Sciences	PL	PL	1919
+850	20	1	Seijo University	http://en.wikipedia.org/wiki/Seijo_University	JP	JA	1950
+851	20	1	Trakya University	http://en.wikipedia.org/wiki/Trakya_University	TR	TR	1982
+852	20	1	University of Bamberg	http://en.wikipedia.org/wiki/University_of_Bamberg	DE	DE	1647
+853	20	1	University of Massachusetts Amherst	http://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst	US	EN	1863
+854	20	1	University of Poitiers	http://en.wikipedia.org/wiki/University_of_Poitiers	FR	FR	1431
+855	20	1	West University of Timișoara	http://en.wikipedia.org/wiki/West_University_of_Timi%C8%99oara	RO	WR	1962
+856	19	1	Kakatiya University	http://en.wikipedia.org/wiki/Kakatiya_University	IN	HI	1976
+857	19	1	Liverpool Hope University	http://en.wikipedia.org/wiki/Liverpool_Hope_University	UK	EN	1844
+858	19	1	Menoufia University	http://en.wikipedia.org/wiki/Menoufia_University	EG	AR	1976
+859	19	1	Pyongyang University of Science and Technology	http://en.wikipedia.org/wiki/Pyongyang_University_of_Science_and_Technology	KP	KO	2010
+860	19	1	University of California, Santa Barbara	http://en.wikipedia.org/wiki/University_of_California%2C_Santa_Barbara	US	EN	1891
+861	19	2	University of Kentucky	http://en.wikipedia.org/wiki/University_of_Kentucky	US	EN	1865
+862	19	2	University of Montpellier	http://en.wikipedia.org/wiki/University_of_Montpellier	FR	FR	1289
+863	19	1	University of Oldenburg	http://en.wikipedia.org/wiki/University_of_Oldenburg	DE	DE	1973
+864	19	1	Yunnan University	http://en.wikipedia.org/wiki/Yunnan_University	CN	ZH	1922
+865	18	1	An-Najah National University	http://en.wikipedia.org/wiki/An-Najah_National_University	PS	AR	1977
+866	18	1	Payap University	http://en.wikipedia.org/wiki/Payap_University	TH	TH	1974
+867	18	1	Ramakrishna Mission Vivekananda University	http://en.wikipedia.org/wiki/Ramakrishna_Mission_Vivekananda_University	IN	HI	2005
+868	18	1	Soonchunhyang University	http://en.wikipedia.org/wiki/Soonchunhyang_University	KR	KO	1978
+869	18	1	Thai Nguyen University	http://en.wikipedia.org/wiki/Thai_Nguyen_University	VN	VI	1994
+870	18	2	University of Bucharest	http://en.wikipedia.org/wiki/University_of_Bucharest	RO	WR	1864
+871	18	1	University of Évora	http://en.wikipedia.org/wiki/University_of_%C3%89vora	PT	PT	1559
+872	18	1	University of Reading	http://en.wikipedia.org/wiki/University_of_Reading	UK	EN	1926
+873	18	1	University of the Arts Helsinki	http://en.wikipedia.org/wiki/University_of_the_Arts_Helsinki	FI	FI	2013
+874	17	1	China University of Geosciences	http://en.wikipedia.org/wiki/China_University_of_Geosciences	CN	ZH	1952
+875	17	1	Daito Bunka University	http://en.wikipedia.org/wiki/Daito_Bunka_University	JP	JA	1923
+876	17	1	Gujarat University	http://en.wikipedia.org/wiki/Gujarat_University	IN	HI	1949
+877	17	1	Institut supérieur de l'aéronautique et de l'espace	http://en.wikipedia.org/wiki/Institut_sup%C3%A9rieur_de_l%27a%C3%A9ronautique_et_de_l%27espace	FR	FR	2007
+878	17	1	Kazimierz Wielki University in Bydgoszcz	http://en.wikipedia.org/wiki/Kazimierz_Wielki_University_in_Bydgoszcz	PL	PL	1969
+879	17	1	Newcastle University	http://en.wikipedia.org/wiki/Newcastle_University	UK	EN	1834
+880	17	1	Polytechnic Institute of Porto	http://en.wikipedia.org/wiki/Polytechnic_Institute_of_Porto	PT	PT	1985
+881	17	1	University of Puerto Rico	http://en.wikipedia.org/wiki/University_of_Puerto_Rico	PR	ES	1903
+882	17	1	University of St. Gallen	http://en.wikipedia.org/wiki/University_of_St._Gallen	CH	DE	1898
+883	17	1	University of Victoria	http://en.wikipedia.org/wiki/University_of_Victoria	CA	EN	1963
+884	16	1	Ateneo de Manila University	http://en.wikipedia.org/wiki/Ateneo_de_Manila_University	PH	EN	1859
+885	16	1	Central Queensland University	http://en.wikipedia.org/wiki/Central_Queensland_University	UK	EN	1967
+886	16	1	Girne American University	http://en.wikipedia.org/wiki/Girne_American_University	CY	TR	1985
+887	16	1	Hunan University	http://en.wikipedia.org/wiki/Hunan_University	CN	ZH	1926
+888	16	1	University of Basrah	http://en.wikipedia.org/wiki/University_of_Basrah	IQ	AR	1964
+889	16	1	University of Toulouse-Jean Jaurès	http://en.wikipedia.org/wiki/University_of_Toulouse-Jean_Jaur%C3%A8s	FR	FR	1974
+890	15	1	Institut national des sciences appliquées de Toulouse	http://en.wikipedia.org/wiki/Institut_national_des_sciences_appliqu%C3%A9es_de_Toulouse	FR	FR	1963
+891	15	1	Medical University of Silesia	http://en.wikipedia.org/wiki/Medical_University_of_Silesia	PL	PL	1948
+892	15	1	N. I. Lobachevsky State University of Nizhny Novgorod	http://en.wikipedia.org/wiki/N._I._Lobachevsky_State_University_of_Nizhny_Novgorod	RU	RU	1916
+893	15	1	Rissho University	http://en.wikipedia.org/wiki/Rissho_University	JP	JA	1580
+894	15	1	Technical University of Dortmund	http://en.wikipedia.org/wiki/Technical_University_of_Dortmund	DE	DE	1968
+895	15	1	University of Colorado Denver	http://en.wikipedia.org/wiki/University_of_Colorado_Denver	US	EN	1912
+896	14	1	Case Western Reserve University	http://en.wikipedia.org/wiki/Case_Western_Reserve_University	US	EN	1826
+897	14	1	Indian Institute of Technology Indore	http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Indore	IN	HI	2009
+898	14	1	Jean Moulin University Lyon 3	http://en.wikipedia.org/wiki/Jean_Moulin_University_Lyon_3	FR	FR	1973
+899	14	1	Nakhon Phanom University	http://en.wikipedia.org/wiki/Nakhon_Phanom_University	TH	TH	2005
+900	14	1	Seikei University	http://en.wikipedia.org/wiki/Seikei_University	JP	JA	1906
+901	14	1	University of Bayreuth	http://en.wikipedia.org/wiki/University_of_Bayreuth	DE	DE	1975
+902	13	1	DePaul University	http://en.wikipedia.org/wiki/DePaul_University	US	EN	1898
+903	13	1	Masaryk University	http://en.wikipedia.org/wiki/Masaryk_University	CZ	WR	1919
+904	13	1	Pai Chai University	http://en.wikipedia.org/wiki/Pai_Chai_University	KR	KO	1885
+905	13	1	Tanta University	http://en.wikipedia.org/wiki/Tanta_University	EG	AR	1972
+906	13	1	Wrocław Medical University	http://en.wikipedia.org/wiki/Wroc%C5%82aw_Medical_University	PL	PL	1950
+907	12	1	Sunway University	http://en.wikipedia.org/wiki/Sunway_University	MY	MS	1987
+908	12	1	Del Rosario University	http://en.wikipedia.org/wiki/Del_Rosario_University	CO	ES	1653
+909	12	1	Jadavpur University	http://en.wikipedia.org/wiki/Jadavpur_University	IN	HI	1955
+910	12	1	Kwangwoon University	http://en.wikipedia.org/wiki/Kwangwoon_University	KR	KO	1934
+911	12	1	Louisiana State University	http://en.wikipedia.org/wiki/Louisiana_State_University	US	EN	1860
+912	12	1	Sofia University	http://en.wikipedia.org/wiki/Sofia_University	BG	WR	1888
+913	12	1	University of Central Greece	http://en.wikipedia.org/wiki/University_of_Central_Greece	GR	EL	2003
+914	12	1	University of Rochester	http://en.wikipedia.org/wiki/University_of_Rochester	US	EN	1850
+915	12	1	Yaşar University	http://en.wikipedia.org/wiki/Ya%C5%9Far_University	TR	TR	2001
+916	11	1	D. Mendeleev University of Chemical Technology of Russia	http://en.wikipedia.org/wiki/D._Mendeleev_University_of_Chemical_Technology_of_Russia	RU	RU	1880
+917	11	1	École nationale supérieure d'informatique pour l'industrie et l'entreprise	http://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_pour_l%27industrie_et_l%27entreprise	FR	FR	1968
+918	11	1	James Cook University	http://en.wikipedia.org/wiki/James_Cook_University	AU	EN	1961
+919	11	1	Mangalore University	http://en.wikipedia.org/wiki/Mangalore_University	IN	HI	1980
+920	11	1	Shanxi University	http://en.wikipedia.org/wiki/Shanxi_University	CN	ZH	1902
+921	11	1	University of Delhi	http://en.wikipedia.org/wiki/University_of_Delhi	IN	HI	1922
+922	10	1	Beirut Arab University	http://en.wikipedia.org/wiki/Beirut_Arab_University	LB	AR	1960
+923	10	1	Curtin University	http://en.wikipedia.org/wiki/Curtin_University	AU	EN	1986
+924	10	1	EMLYON Business School	http://en.wikipedia.org/wiki/EMLYON_Business_School	FR	FR	1872
+925	10	1	Escola Politécnica da UFRJ	http://en.wikipedia.org/wiki/Escola_Polit%C3%A9cnica_da_UFRJ	BR	PT	1972
+926	10	1	University of Los Andes (Colombia)	http://en.wikipedia.org/wiki/University_of_Los_Andes_%28Colombia%29	CO	ES	1948
+927	10	1	Voronezh State University	http://en.wikipedia.org/wiki/Voronezh_State_University	RU	RU	1918
+928	9	1	Cheikh Anta Diop University	http://en.wikipedia.org/wiki/Cheikh_Anta_Diop_University	SN	FR	1957
+929	9	1	Chhatrapati Shahu Ji Maharaj University	http://en.wikipedia.org/wiki/Chhatrapati_Shahu_Ji_Maharaj_University	IN	HI	1966
+930	9	1	China University of Political Science and Law	http://en.wikipedia.org/wiki/China_University_of_Political_Science_and_Law	CN	ZH	1952
+931	9	1	Kagoshima University	http://en.wikipedia.org/wiki/Kagoshima_University	JP	JA	1949
+932	9	1	Petra Christian University	http://en.wikipedia.org/wiki/Petra_Christian_University	ID	WR	1961
+933	9	1	School for Advanced Studies in the Social Sciences	http://en.wikipedia.org/wiki/School_for_Advanced_Studies_in_the_Social_Sciences	FR	FR	1975
+934	9	1	Siam University	http://en.wikipedia.org/wiki/Siam_University	TH	TH	1965
+935	8	1	Awadhesh Pratap Singh University	http://en.wikipedia.org/wiki/Awadhesh_Pratap_Singh_University	IN	HI	1968
+936	8	1	Chongqing University	http://en.wikipedia.org/wiki/Chongqing_University	CN	ZH	1929
+937	8	1	François Rabelais University	http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais_University	FR	FR	1969
+938	8	1	Indonesian Institute of the Arts, Yogyakarta	http://en.wikipedia.org/wiki/Indonesian_Institute_of_the_Arts%2C_Yogyakarta	ID	WR	1984
+939	8	1	Irkutsk State University	http://en.wikipedia.org/wiki/Irkutsk_State_University	RU	RU	1918
+940	8	1	Iuliu Hațieganu University of Medicine and Pharmacy	http://en.wikipedia.org/wiki/Iuliu_Ha%C8%9Bieganu_University_of_Medicine_and_Pharmacy	RO	RO	1919
+941	8	1	Kadir Has University	http://en.wikipedia.org/wiki/Kadir_Has_University	TR	TR	1997
+942	8	1	Rajamangala University of Technology Suvarnabhumi	http://en.wikipedia.org/wiki/Rajamangala_University_of_Technology_Suvarnabhumi	TH	TH	2005
+943	8	1	SOAS, University of London	http://en.wikipedia.org/wiki/SOAS%2C_University_of_London	UK	EN	1916
+944	8	1	Tokyo Medical and Dental University	http://en.wikipedia.org/wiki/Tokyo_Medical_and_Dental_University	JP	JA	1928
+945	8	1	Viadrina European University	http://en.wikipedia.org/wiki/Viadrina_European_University	DE	DE	1506
+946	7	1	Aalto University School of Arts, Design and Architecture	http://en.wikipedia.org/wiki/Aalto_University_School_of_Arts%2C_Design_and_Architecture	FI	FI	1871
+947	7	1	Başkent University	http://en.wikipedia.org/wiki/Ba%C5%9Fkent_University	TR	TR	1994
+948	7	1	International Hellenic University	http://en.wikipedia.org/wiki/International_Hellenic_University	GR	EL	2005
+949	7	1	Kasem Bundit University	http://en.wikipedia.org/wiki/Kasem_Bundit_University	TH	TH	1987
+950	7	1	Monash University	http://en.wikipedia.org/wiki/Monash_University	AU	EN	1958
+951	7	1	Nagasaki University	http://en.wikipedia.org/wiki/Nagasaki_University	JP	JA	1949
+952	7	1	Southwest Jiaotong University	http://en.wikipedia.org/wiki/Southwest_Jiaotong_University	CN	ZH	1896
+953	7	1	University of Aberdeen	http://en.wikipedia.org/wiki/University_of_Aberdeen	UK	EN	1495
+954	7	1	University of Erfurt	http://en.wikipedia.org/wiki/University_of_Erfurt	DE	DE	1389
+955	7	1	University of Málaga	http://en.wikipedia.org/wiki/University_of_M%C3%A1laga	ES	ES	1972
+956	6	1	Akdeniz University	http://en.wikipedia.org/wiki/Akdeniz_University	TR	TR	1982
+957	6	1	Claude Bernard University Lyon 1	http://en.wikipedia.org/wiki/Claude_Bernard_University_Lyon_1	FR	FR	1971
+958	6	1	Federal University of São Carlos	http://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos	BR	PT	1968
+959	6	1	Hanoi Law University	http://en.wikipedia.org/wiki/Hanoi_Law_University	VN	VI	1979
+960	6	1	J. F. Oberlin University	http://en.wikipedia.org/wiki/J._F._Oberlin_University	JP	JA	1921
+961	6	1	Lakshmibai National University of Physical Education	http://en.wikipedia.org/wiki/Lakshmibai_National_University_of_Physical_Education	IN	HI	2000
+962	6	1	Malmö University	http://en.wikipedia.org/wiki/Malm%C3%B6_University	SE	SV	1998
+963	6	1	Riga Technical University	http://en.wikipedia.org/wiki/Riga_Technical_University	LV	WR	1862
+964	6	1	Tallinn University	http://en.wikipedia.org/wiki/Tallinn_University	EE	WR	2005
+965	6	1	United Arab Emirates University	http://en.wikipedia.org/wiki/United_Arab_Emirates_University	AE	AR	1975
+966	6	1	University of Hohenheim	http://en.wikipedia.org/wiki/University_of_Hohenheim	DE	DE	1818
+967	6	1	University of Lille Nord de France	http://en.wikipedia.org/wiki/University_of_Lille_Nord_de_France	FR	FR	2009
+968	5	1	École normale supérieure	http://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure	FR	FR	1826
+969	5	1	Fukuoka University	http://en.wikipedia.org/wiki/Fukuoka_University	JP	JA	1934
+970	5	1	Grenoble School of Management	http://en.wikipedia.org/wiki/Grenoble_School_of_Management	FR	FR	1984
+971	5	1	Jeonju University	http://en.wikipedia.org/wiki/Jeonju_University	KR	KO	1964
+972	5	1	Universiti Sultan Azlan Shah	http://en.wikipedia.org/wiki/Universiti_Sultan_Azlan_Shah	MY	MS	1999
+973	5	1	University of Camerino	http://en.wikipedia.org/wiki/University_of_Camerino	IT	IT	1727
+974	5	1	University of Miami	http://en.wikipedia.org/wiki/University_of_Miami	US	EN	1925
+975	5	1	Vinoba Bhave University	http://en.wikipedia.org/wiki/Vinoba_Bhave_University	IN	HI	1992
+976	4	1	Beijing Institute of Technology	http://en.wikipedia.org/wiki/Beijing_Institute_of_Technology	CN	ZH	1940
+977	4	1	California State University, San Bernardino	http://en.wikipedia.org/wiki/California_State_University%2C_San_Bernardino	US	EN	1965
+978	4	1	Jiwaji University	http://en.wikipedia.org/wiki/Jiwaji_University	IN	HI	1964
+979	4	1	National University of Uzbekistan	http://en.wikipedia.org/wiki/National_University_of_Uzbekistan	UZ	UZ	1918
+980	4	1	Osaka Prefecture University	http://en.wikipedia.org/wiki/Osaka_Prefecture_University	JP	JA	1883
+981	4	1	Princess of Naradhiwas University	http://en.wikipedia.org/wiki/Princess_of_Naradhiwas_University	TH	TH	2005
+982	4	1	University of Da Nang	http://en.wikipedia.org/wiki/University_of_Da_Nang	VN	VI	1994
+983	4	1	University of the Faroe Islands	http://en.wikipedia.org/wiki/University_of_the_Faroe_Islands	FO	DA	1965
+984	3	1	Anton de Kom University of Suriname	http://en.wikipedia.org/wiki/Anton_de_Kom_University_of_Suriname	SR	NL	1983
+985	3	1	Catholic University of Eichstätt-Ingolstadt	http://en.wikipedia.org/wiki/Catholic_University_of_Eichst%C3%A4tt-Ingolstadt	DE	DE	1980
+986	3	1	Colorado State University	http://en.wikipedia.org/wiki/Colorado_State_University	US	EN	1870
+987	3	1	Dalarna University College	http://en.wikipedia.org/wiki/Dalarna_University_College	SE	SV	1977
+988	3	1	Dokkyo University	http://en.wikipedia.org/wiki/Dokkyo_University	JP	JA	1883
+989	3	1	Imam Sadiq University	http://en.wikipedia.org/wiki/Imam_Sadiq_University	IR	FA	1982
+990	3	1	Indian Institute of Technology Kharagpur	http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kharagpur	IN	HI	1951
+991	3	1	London South Bank University	http://en.wikipedia.org/wiki/London_South_Bank_University	UK	EN	1992
+992	3	1	Peking Union Medical College	http://en.wikipedia.org/wiki/Peking_Union_Medical_College	CN	ZH	1917
+993	3	1	Seoul National University Hospital	http://en.wikipedia.org/wiki/Seoul_National_University_Hospital	KR	KO	1885
+994	2	1	Indira Gandhi National Tribal University	http://en.wikipedia.org/wiki/Indira_Gandhi_National_Tribal_University	IN	HI	2007
+995	2	1	Iowa State University	http://en.wikipedia.org/wiki/Iowa_State_University	US	EN	1858
+996	2	1	Kutafin Moscow State Law University	http://en.wikipedia.org/wiki/Kutafin_Moscow_State_Law_University	RU	RU	1931
+997	2	1	Pathumthani University	http://en.wikipedia.org/wiki/Pathumthani_University	TH	TH	2005
+998	2	1	University College South Denmark	http://en.wikipedia.org/wiki/University_College_South_Denmark	DK	DA	2008
+999	2	1	University of Antioquia	http://en.wikipedia.org/wiki/University_of_Antioquia	CO	ES	1803
+1000	2	1	University of Western Greece	http://en.wikipedia.org/wiki/University_of_Western_Greece	GR	EL	2009
+1001	2	1	Yamagata University	http://en.wikipedia.org/wiki/Yamagata_University	JP	JA	1878
+1002	1	1	Boston College	http://en.wikipedia.org/wiki/Boston_College	US	EN	1863
+1003	1	1	Chhattisgarh Swami Vivekanand Technical University	http://en.wikipedia.org/wiki/Chhattisgarh_Swami_Vivekanand_Technical_University	IN	HI	2005
+1004	1	1	Concordia University	http://en.wikipedia.org/wiki/Concordia_University	CA	FR	1974
+1005	1	1	Far Eastern Federal University	http://en.wikipedia.org/wiki/Far_Eastern_Federal_University	RU	RU	1899
+1006	1	1	International School for Advanced Studies	http://en.wikipedia.org/wiki/International_School_for_Advanced_Studies	IT	IT	1978
+1007	1	1	La Trobe University	http://en.wikipedia.org/wiki/La_Trobe_University	AU	EN	1964
+1008	1	1	Universidad Autónoma de Santo Domingo	http://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Santo_Domingo	DO	ES	1538
+1009	1	1	University of Ez-Zitouna	http://en.wikipedia.org/wiki/University_of_Ez-Zitouna	TN	AR	1956
+1010	1	1	Wrocław University of Economics	http://en.wikipedia.org/wiki/Wroc%C5%82aw_University_of_Economics	PL	PL	1954
